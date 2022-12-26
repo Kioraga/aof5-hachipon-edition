@@ -3273,6 +3273,106 @@ file = "defaultconfigs/ftbultimine/ftbultimine.snbt"
 hash = "5ac86027a679fb0478b86b9e25ed91dfee1561b599ac813b30adb3df8f7cc29b"
 
 [[files]]
+file = "docs/packwiz.md"
+hash = "4bbe22707de4d11a89d251a4e04054e810058c5ed60e2cfa423a9de472847985"
+
+[[files]]
+file = "docs/packwiz_completion.md"
+hash = "d919909830dc889622f20e1de4acc4c2f123cb77169b38815f4e46b896b56b13"
+
+[[files]]
+file = "docs/packwiz_completion_bash.md"
+hash = "a7a45ccc51e103636d0eaae67137dbc053f94a1a690efa1e8a1ce1817858a34c"
+
+[[files]]
+file = "docs/packwiz_completion_fish.md"
+hash = "823fdff945fb75207d4326ee6750fa900d876ab1459c53e83aeaca8567c73b1f"
+
+[[files]]
+file = "docs/packwiz_completion_powershell.md"
+hash = "b4fdc04c127668560d9d13111b2b4ea14e695327d97639e4e4e8e0b4034a2022"
+
+[[files]]
+file = "docs/packwiz_completion_zsh.md"
+hash = "91435da8c565c8f66b4ebf879881632b54b7b1157abb30bdd88c7551468f5bd0"
+
+[[files]]
+file = "docs/packwiz_curseforge.md"
+hash = "f452777c77a4c5ca4848dd3042a671238f8f94f58d815f14efe92ada584b82a4"
+
+[[files]]
+file = "docs/packwiz_curseforge_detect.md"
+hash = "1329db9bee1ef71b73c6e8642f50343b7250e3994b9fd1ee80f24c7da38d2343"
+
+[[files]]
+file = "docs/packwiz_curseforge_export.md"
+hash = "6f91ee78d6cafc3804c66009d3de33fe445b5cc4aa8100a4b95b15b36d9542a1"
+
+[[files]]
+file = "docs/packwiz_curseforge_import.md"
+hash = "365a5939c66f7bddf2e10be3061ae8e1f66d5d469fb1bee8d0d4eb7eb28cf459"
+
+[[files]]
+file = "docs/packwiz_curseforge_install.md"
+hash = "24b2b50b0a013ad523681056f4d59f147cede0a9a2d037ab9677bf542d8c9215"
+
+[[files]]
+file = "docs/packwiz_curseforge_open.md"
+hash = "ba1d7115f4c1a80a0922c0ac651c1fd6a94bb9e8a53ff6b61dcb6c171950a9fa"
+
+[[files]]
+file = "docs/packwiz_init.md"
+hash = "5075327c6e3d244b1e7d40d5d7ffc708f65f5227d580bab25b24d394b3d339df"
+
+[[files]]
+file = "docs/packwiz_list.md"
+hash = "1bc323905f688f358561fa17f9e3f7889140ef3b4243d92728bf0b0630b2f94a"
+
+[[files]]
+file = "docs/packwiz_modrinth.md"
+hash = "f204b44022633a192379438c865dd949c8775774ee9742844a74400875bd4219"
+
+[[files]]
+file = "docs/packwiz_modrinth_export.md"
+hash = "f6563fa3f9e3afdbdb8010a9436496133d13426fda3140787ea22d46f643e602"
+
+[[files]]
+file = "docs/packwiz_modrinth_install.md"
+hash = "468adf781557656594946b65fb0be5cffc352a0458e02491134c0edeba2726bf"
+
+[[files]]
+file = "docs/packwiz_refresh.md"
+hash = "1330fdd29d986e7d1858197f818743eb26fd3793bee8ddb5fb029a0dcbb4dcbc"
+
+[[files]]
+file = "docs/packwiz_remove.md"
+hash = "138d9f733a80a1266786c06f3285ce76398d7107b7097e6144de88a5386c7419"
+
+[[files]]
+file = "docs/packwiz_serve.md"
+hash = "ee7ff598ca674395c04851e06e88da6b0cd94bcf69e77fbcc3e081fac2930f43"
+
+[[files]]
+file = "docs/packwiz_update.md"
+hash = "4df1c4650ef03cb091c45e634c53b2c705942fef02910d52c78dd755682c330d"
+
+[[files]]
+file = "docs/packwiz_url.md"
+hash = "1373cb5b3ce5def35de7dfdf3d0db303d6c85011f0443defd333755ecc84e398"
+
+[[files]]
+file = "docs/packwiz_url_add.md"
+hash = "f36f09eb51c8ca3231df405fde06bc7a5a34366b4e21b5f241b46781030b62e8"
+
+[[files]]
+file = "docs/packwiz_utils.md"
+hash = "830b04a54353474dcb978dfa504028355e58f0d06713b036b3d8b13612b1eef8"
+
+[[files]]
+file = "docs/packwiz_utils_markdown.md"
+hash = "7015286fa8d86e312ebc612e6a0a8eeaf503a794a6737c84f7953df2d0cccdb8"
+
+[[files]]
 file = "irisUpdateInfo.json"
 hash = "c21922a8d8433a5d3ad984f97ebe73d91a310917014e16e2c0ec3dbe69fa9940"
 
@@ -6833,11 +6933,6 @@ hash = "9e9e1425152e5303571873b9b7d42c630681810c096a04b55c2248735f47bd05"
 metafile = true
 
 [[files]]
-file = "mods/project-359248.pw.toml"
-hash = "5c87232ae385a59496ee49c6d467e53707aa9fcd1f6ba3bc04a321ddac90b5df"
-metafile = true
-
-[[files]]
 file = "mods/promenade.pw.toml"
 hash = "19043dd6917c0858a8d1ac0ae88afeb85c61b94906921baab215fe94c1a5408c"
 metafile = true
@@ -6925,6 +7020,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
+metafile = true
+
+[[files]]
+file = "mods/secretroomsmod.pw.toml"
+hash = "ffc7684367213f3902dec9267a04489c88c046b446872fa7476eb3fe0368ebd0"
 metafile = true
 
 [[files]]
@@ -7225,6 +7325,106 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "5d6fea0e835269d69a0c2387012eda8f9ca80f9ee9530589272bf298aed18316"
+
+[[files]]
+file = "packwiz.md"
+hash = "6d21828f30b0b7b82ff7ef9e00d1bd61ad8397f4c71e38306cf2cf11abd79b1d"
+
+[[files]]
+file = "packwiz_completion.md"
+hash = "d919909830dc889622f20e1de4acc4c2f123cb77169b38815f4e46b896b56b13"
+
+[[files]]
+file = "packwiz_completion_bash.md"
+hash = "a7a45ccc51e103636d0eaae67137dbc053f94a1a690efa1e8a1ce1817858a34c"
+
+[[files]]
+file = "packwiz_completion_fish.md"
+hash = "823fdff945fb75207d4326ee6750fa900d876ab1459c53e83aeaca8567c73b1f"
+
+[[files]]
+file = "packwiz_completion_powershell.md"
+hash = "b4fdc04c127668560d9d13111b2b4ea14e695327d97639e4e4e8e0b4034a2022"
+
+[[files]]
+file = "packwiz_completion_zsh.md"
+hash = "91435da8c565c8f66b4ebf879881632b54b7b1157abb30bdd88c7551468f5bd0"
+
+[[files]]
+file = "packwiz_curseforge.md"
+hash = "f452777c77a4c5ca4848dd3042a671238f8f94f58d815f14efe92ada584b82a4"
+
+[[files]]
+file = "packwiz_curseforge_detect.md"
+hash = "1329db9bee1ef71b73c6e8642f50343b7250e3994b9fd1ee80f24c7da38d2343"
+
+[[files]]
+file = "packwiz_curseforge_export.md"
+hash = "6f91ee78d6cafc3804c66009d3de33fe445b5cc4aa8100a4b95b15b36d9542a1"
+
+[[files]]
+file = "packwiz_curseforge_import.md"
+hash = "365a5939c66f7bddf2e10be3061ae8e1f66d5d469fb1bee8d0d4eb7eb28cf459"
+
+[[files]]
+file = "packwiz_curseforge_install.md"
+hash = "24b2b50b0a013ad523681056f4d59f147cede0a9a2d037ab9677bf542d8c9215"
+
+[[files]]
+file = "packwiz_curseforge_open.md"
+hash = "ba1d7115f4c1a80a0922c0ac651c1fd6a94bb9e8a53ff6b61dcb6c171950a9fa"
+
+[[files]]
+file = "packwiz_init.md"
+hash = "5075327c6e3d244b1e7d40d5d7ffc708f65f5227d580bab25b24d394b3d339df"
+
+[[files]]
+file = "packwiz_list.md"
+hash = "a4e844debc86706498c11886aad9631c6f710711e5c10213a6ba2dcbd3bd7eb1"
+
+[[files]]
+file = "packwiz_modrinth.md"
+hash = "f204b44022633a192379438c865dd949c8775774ee9742844a74400875bd4219"
+
+[[files]]
+file = "packwiz_modrinth_export.md"
+hash = "f6563fa3f9e3afdbdb8010a9436496133d13426fda3140787ea22d46f643e602"
+
+[[files]]
+file = "packwiz_modrinth_install.md"
+hash = "468adf781557656594946b65fb0be5cffc352a0458e02491134c0edeba2726bf"
+
+[[files]]
+file = "packwiz_refresh.md"
+hash = "1330fdd29d986e7d1858197f818743eb26fd3793bee8ddb5fb029a0dcbb4dcbc"
+
+[[files]]
+file = "packwiz_remove.md"
+hash = "138d9f733a80a1266786c06f3285ce76398d7107b7097e6144de88a5386c7419"
+
+[[files]]
+file = "packwiz_serve.md"
+hash = "ee7ff598ca674395c04851e06e88da6b0cd94bcf69e77fbcc3e081fac2930f43"
+
+[[files]]
+file = "packwiz_update.md"
+hash = "4df1c4650ef03cb091c45e634c53b2c705942fef02910d52c78dd755682c330d"
+
+[[files]]
+file = "packwiz_url.md"
+hash = "1373cb5b3ce5def35de7dfdf3d0db303d6c85011f0443defd333755ecc84e398"
+
+[[files]]
+file = "packwiz_url_add.md"
+hash = "f36f09eb51c8ca3231df405fde06bc7a5a34366b4e21b5f241b46781030b62e8"
+
+[[files]]
+file = "packwiz_utils.md"
+hash = "830b04a54353474dcb978dfa504028355e58f0d06713b036b3d8b13612b1eef8"
+
+[[files]]
+file = "packwiz_utils_markdown.md"
+hash = "7015286fa8d86e312ebc612e6a0a8eeaf503a794a6737c84f7953df2d0cccdb8"
 
 [[files]]
 file = "patchouli_data.json"
