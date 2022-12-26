@@ -1,0 +1,3 @@
+[17:57:57] [INFO ] Loaded script startup_scripts:aof5_logo.js in 0.063 s
+[17:57:57] [INFO ] Loaded script startup_scripts:worldgen.js in 0.001 s
+[17:57:57] [INFO ] Loaded 2/2 KubeJS startup scripts in 0.211 s

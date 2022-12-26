@@ -1,0 +1,76 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				item = true
+				chicken = true
+				wolf = true
+				cow = true
+				pig = true
+				horse = true
+				skeleton = true
+				bat = true
+				zombie = true
+				glow_squid = true
+				glow_item_frame = false
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
+				enderman = true
+
+			[light_sources.settings.entities.naturalist]
+				robin = true
+				snail = true
+				firefly = true
+				butterfly = true
+				bear = true
+
+			[light_sources.settings.entities.terrarianslimes]
+				black_slime = true
+				green_slime = true
+				red_slime = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				skeleton_creeper = true
+				ghoul = true
+
+			[light_sources.settings.entities.bewitchment]
+				ghost = true
+				snake = true
+
+			[light_sources.settings.entities.promenade]
+				duck = true
+				lush_creeper = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+
+			[light_sources.settings.entities.megaparrot]
+				megaparrot = true
+

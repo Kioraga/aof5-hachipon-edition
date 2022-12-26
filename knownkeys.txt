@@ -1,0 +1,11 @@
+key.adventurez.dragonfirebreath
+mod.chiselsandbits.keys.key.modded-tool.open
+mod.chiselsandbits.keys.key.modded-tool.cycle.left
+mod.chiselsandbits.keys.key.modded-tool.cycle.right
+mod.chiselsandbits.keys.key.measuring-tape.reset
+mod.chiselsandbits.keys.key.undo
+mod.chiselsandbits.keys.key.redo
+key.craftingtweaks.refill_last
+key.craftingtweaks.refill_last_stack
+keybind.luggage.whistle
+key.trashslot.toggle

@@ -1,0 +1,13 @@
+name = "AOF5 - Hachipon Edition"
+author = "kioraga"
+version = "2.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "40429200187d1e38d38feb85f85ce3c5b6f853ae58cc3e1746ac63520d95ae87"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"

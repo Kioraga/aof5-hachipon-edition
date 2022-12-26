@@ -1,0 +1,1447 @@
+[17:57:28] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.9
+[17:57:28] [ForkJoinPool-1-worker-2/WARN]: Mod bcc uses the version fabric-1.0.5 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:57:28] [ForkJoinPool-1-worker-11/WARN]: Mod bowinfinityfix uses the version rv11 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'rv11'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:57:28] [ForkJoinPool-1-worker-5/WARN]: Mod compactmachines uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:57:28] [ForkJoinPool-1-worker-10/WARN]: Mod create uses the version 0.5.0c-708 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:57:28] [ForkJoinPool-1-worker-1/WARN]: Mod registrate-fabric uses the version MC1.18.2-1.1.3 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'MC1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:57:28] [ForkJoinPool-1-worker-6/WARN]: The mod "dwarfcoal" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 16 column 9
+[17:57:28] [ForkJoinPool-1-worker-10/WARN]: The mod "thonkutil-customization-v1" contains invalid entries in its mod json:
+- Unsupported root entry "disabled:mixins" at line 11 column 20
+[17:57:28] [ForkJoinPool-1-worker-3/WARN]: Mod xps uses the version 0.4.4.r_for_1.18.x_Fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'r_for_1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:57:28] [main/INFO]: Dependencies overridden for fallflyinglib, couplings, crusade, kubejs, incantationem, trinkets, universal-graves, survivalisland, artifice, morevillagers-fabric, riverredux, indrev, impaled, fabric-dimensions-v1, kibe, megane, server_translations_api, addendum, ctm, diggusmaximus, yungsapi, maybe-data, packages, noanglebrackets, structurized, playerabilitylib, fabric-blockrenderlayer-v1, totemmod, terrarianslimes, mo_glass, libblockattributes_items, promenade, respawnablepets, fabric, balm-fabric, dawn, dml-refabricated, flytre_lib, packet_tweaker, repurposed_structures, bitsandchisels, modmenu, eggtab, toolstats, shulkerutils, blockus, fabric-events-interaction-v0, mostructures, charmonium, enchantmentdescriptions, patchouli, mousewheelie, disable_custom_worlds_advice, mocolors, megane-runtime, betterstrongholds, expandedstorage, runelic, cardinal-components-entity, libblockattributes_fluids, architectury, cherishedworlds, authme, adorn, slotlock, cardinal-components-base, blast, golemsgalore, cpas, builtinservers, conjuring, charm, someforgepatchesported, aqupdgrizzly, fabric-item-groups-v0, bettermineshafts, geckolib3, darkpaintings, truerooms, fabric-renderer-api-v1, basicaiots, inventorysorter, notes, rhino, owo, ae2wtlib, placeholder-api, lithium, attributefix, harvest_scythes, redbits, waystones, clumps, myron, dual_riders, stoneholm, defaultsettings, wolveswitharmor, entitybanners, go-fish, lazydfu, strawdummy, reach-entity-attributes, lovely_snails, fabric-renderer-registries-v1, deathlog, quickshulker, ftbchunks, goml, artifality, libblockattributes_core, untitledduckmod, polymer, horsestatsvanilla, ktdatataglib, ratsmischief, woods_and_mires, jankson, additionaladditions, static-content, fabric-renderer-indigo, wirelessnetworks, simple-rpc, dark-loading-screen, hologram-api, kyrptconfig, libgui, biome_locator, xaerominimap, fabric-rendering-v0, croptopia, omega-config, sgui, spruceui, gateofbabylon, winged, ambientenvironment, cardinal-components-world, fabric-biome-api-v1, advanced_runtime_resource_pack, lifts, ferritecore, textile_backup, lakeside, betterf3, extragenerators, carrier, horseinfo, fake-player-api, secretrooms
+[17:57:28] [main/WARN]: Warnings were found!
+ - Mod 'Glassential' (glassential) 1.3.0 recommends version 0.18.0-alpha or later of mesh, which is missing!
+	 - You should install version 0.18.0-alpha or later of mesh for the optimal experience.
+ - Mod 'Omega Config GUI' (omega-config-gui) 1.2.3-1.18.1 recommends version 3.0.1 of mod 'Mod Menu' (modmenu), but only the wrong version is present: 3.2.3!
+	 - You should install version 3.0.1 of mod 'Mod Menu' (modmenu) for the optimal experience.
+ - Mod 'Overloaded Armor Bar' (overloadedarmorbar) 1.18.1-6 recommends version 1.1.7 or later of modupdater, which is missing!
+	 - You should install version 1.1.7 or later of modupdater for the optimal experience.
+[17:57:28] [main/INFO]: Loading 487 mods:
+	- ad_astra 1.0.0
+	- additionaladditions 4.0.5
+	- additionalentityattributes 1.0.0+1.18.2 via spectrum
+	- adorn 3.5.0+1.18.2
+	- advanced_runtime_resource_pack 0.5.7
+	- advancednetherite 1.5.1-1.18.2
+	- advancementplaques 1.4.5
+	- advdebug 2.3.0
+	- adventurez 1.4.11
+	- ae2 11.1.5
+	- ae2additions 3.1.2-fabric
+	- ae2things 1.1.0-beta.8
+	- ae2wtlib 11.1.4
+	- animal_feeding_trough 1.0.3+1.18.2
+	- aofemotes 0.0.4
+	- appbot 1.3.1
+	- appleskin 2.4.1+mc1.18.2
+	- aqupdcaracal 1.18.2-1.3.8
+	- aqupdgrizzly 1.18-1.3
+	- arcanus 1.29
+	- architects_palette 2.2
+	- architectury 4.9.83
+	- artifacts 7.0.3+fabric
+	- attributefix 14.0.2
+	- authme 3.1.0
+	- auto-workstations 1.0-SNAPSHOT-14
+	- autoconfig1u 3.4.0
+	- automobility 0.2.1+1.18.2
+	- axolotlitemfix 1.1.3
+	- badpackets 0.1.2
+	- balm-fabric 3.2.0+0
+	- bannerpp 2.0.6-teb.1+mc.1.18.2 via spectrum
+	- bcc fabric-1.0.5
+	- beaconoverhaul 1.6.0+1.18.2
+	- bedbenefits 6.0.2
+	- besmirchment 1.18.2-12
+	- better_bad_omen 1.3.0
+	- betterdeserttemples 1.18.2-Fabric-1.3
+	- betterdungeons 1.18.2-Fabric-2.1.0
+	- bettermineshafts 1.18.2-Fabric-2.2
+	- bettermounthud 1.1.4
+	- betterpingdisplay 1.1.1
+	- betterstrongholds 1.18.2-Fabric-2.1.1
+	- betterwitchhuts 1.18.2-Fabric-1.0.1
+	- bewitchment 1.18-23
+	- bhmenu 1.17.1-1.18.2-1.3
+	- biomemakeover 1.18.2-1.4.29
+	- blast 1.9.1
+	- blockus 2.4.8+1.18.2
+	- blue_endless_jankson 1.2.1 via kyrptconfig
+	- bookshelf 13.2.47
+	- borderlessmining 1.1.2+1.18.2
+	- bosses_of_mass_destruction 1.3.8-1.18.2
+	- botania 1.18.2-435-FABRIC
+	- bowinfinityfix rv11
+	- breakprogress 1.0.1
+	- buildinggadgets 1.0.22
+	- builtinservers 2.0-BETA+1.18
+	- byg 1.4
+	- cacao 1.2
+	- campanion 3.0.3
+	- can-i-mine-this-block 1.2.0
+	- capybara 1.0.6
+	- cardinal-components 4.2.0
+	- cardinal-components-base 4.2.0 via cardinal-components
+	- cardinal-components-block 4.2.0 via cardinal-components
+	- cardinal-components-chunk 4.2.0 via cardinal-components
+	- cardinal-components-entity 4.2.0 via cardinal-components
+	- cardinal-components-item 4.2.0 via cardinal-components
+	- cardinal-components-level 4.2.0 via cardinal-components
+	- cardinal-components-scoreboard 4.2.0 via cardinal-components
+	- cardinal-components-world 4.2.0 via cardinal-components
+	- carrier 1.10.0
+	- catwalksinc 1.3.0
+	- chalk 2.0.1+1.18.2
+	- chassis 1.1.0
+	- cherishedworlds 2.0.2-1.18
+	- chipped 1.2
+	- chisel 1.4.5
+	- chiselsandbits 1.2.113
+	- cleancut 1.18.2-5.0-fabric
+	- clienttweaks 7.1.0
+	- cloth-api 3.2.64
+	- cloth-basic-math 0.6.1 via cloth-config
+	- cloth-client-events-v0 3.2.64 via cloth-api
+	- cloth-common-events-v1 3.2.64 via cloth-api
+	- cloth-config 6.2.62
+	- cloth-config-lite 2.0.6 via omega-config-gui
+	- cloth-datagen-api-v1 3.2.64 via cloth-api
+	- cloth-scissors-api-v1 3.2.64 via cloth-api
+	- cloth-utils-v1 3.2.64 via cloth-api
+	- clumps 8.0.0+15
+	- com_electronwill_night-config_core 3.6.5 via couplings
+	- com_electronwill_night-config_toml 3.6.5 via couplings
+	- com_eliotlash_mclib_mclib 18 via geckolib3
+	- com_eliotlash_molang_molang 18 via geckolib3
+	- com_github_llamalad7_mixinextras 0.0.11 via porting_lib
+	- com_google_code_findbugs_jsr305 3.0.2 via create
+	- com_moandjiezana_toml_toml4j 0.7.2 via deepslatecutting
+	- com_typesafe_config 1.4.1 via croptopia
+	- compactmachines ${version}
+	- companion 2.0.1
+	- compressor 0.2.0
+	- computercraft 1.100.8
+	- conjuring 1.0.22+1.18
+	- continuity 2.0.1+1.18.2
+	- controlling 9.0+21
+	- cookingforblockheads 12.1.0
+	- couplings 1.8.0+1.18.2
+	- coxinhautilities 1.4.2+1.18.2
+	- craftingtweaks 14.0.3
+	- crawl 0.10.6
+	- create 0.5.0c-708
+	- createplus 1.0
+	- creeperoverhaul 1.3.1
+	- croptopia 2.0.5
+	- croptosis 1.5.0
+	- crowdin-translate 1.4+1.18.2 via compressor
+	- cyti 1.0.5
+	- dankstorage 1.18.2-3.7.1
+	- dark-enchanting 1.0.0+1.18.2
+	- darkpaintings 10.0.3
+	- darkutils 10.0.5
+	- dawn 3.3.2
+	- deathknell 3.0.2
+	- deathlog 0.2.9+1.18
+	- decorative_blocks 2.1.1
+	- deepslatecutting 1.3.4
+	- defaultoptions 14.1.1
+	- disable_custom_worlds_advice 2.0
+	- display_case 1.0.0
+	- dml-refabricated 1.18.2
+	- dml-refabricated-base 1.18.2 via dml-refabricated
+	- dml-refabricated-events 1.18.2 via dml-refabricated
+	- dml-refabricated-modular-armor 1.18.2 via dml-refabricated
+	- dml-refabricated-rei 1.18.2 via dml-refabricated
+	- dmlsimulacrum 0.5.4-beta
+	- doodads 0.1.2-1.18.2
+	- dragonloot 1.1.0
+	- dripstone_fluid_lib 1.2.0 via milk
+	- dual_riders 1.1.1
+	- duckling 1.0.6
+	- dusk 1.18.2-2.1
+	- dustrial_decor 0.5
+	- dwarfcoal 1.18.1-1.0.1
+	- dyed 1.0.2
+	- dynamicfps 2.1.0
+	- ecologics 1.7.9
+	- effecttooltips 2.0.1
+	- eggtab 2.2.1+1.18-fabric
+	- ellemes_container_lib 1.4.0-beta.2
+	- elytratrinket 3.0.0-1.18.1
+	- enchancement 1.18-18
+	- enchdesc 10.0.4
+	- entitybanners 1.0.2-BETA+1.18
+	- equipmentcompare 1.2.12
+	- error_notifier 1.0.9 via roughlyenoughitems
+	- expandability 6.0.0 via artifacts
+	- expandedstorage 7.4.0-beta.4
+	- experiencebugfix 18
+	- extraalchemy 1.8.1
+	- extragenerators 1.2.1-BETA+1.18
+	- fabric 0.58.0+1.18.2
+	- fabric-api-base 0.4.4+d7c144a860 via fabric
+	- fabric-api-lookup-api-v1 1.6.2+2373a54560 via fabric
+	- fabric-biome-api-v1 8.0.6+651bcc5960 via fabric
+	- fabric-blockrenderlayer-v1 1.1.12+3ac43d9560 via fabric
+	- fabric-command-api-v1 1.1.9+d7c144a860 via fabric
+	- fabric-commands-v0 0.2.8+b4f4f6cd60 via fabric
+	- fabric-containers-v0 0.1.23+d7c144a860 via fabric
+	- fabric-content-registries-v0 3.1.1+c85f2e3860 via fabric
+	- fabric-convention-tags-v1 1.0.1+474e4f7960 via fabric
+	- fabric-crash-report-info-v1 0.2.1+ee261a3e60 via fabric
+	- fabric-data-generation-api-v1 3.0.1+9fcb91d260 via fabric
+	- fabric-dimensions-v1 2.1.20+489d6f8260 via fabric
+	- fabric-entity-events-v1 1.4.8+d7c144a860 via fabric
+	- fabric-events-interaction-v0 0.4.19+d7c144a860 via fabric
+	- fabric-events-lifecycle-v0 0.2.19+d7c144a860 via fabric
+	- fabric-game-rule-api-v1 1.0.13+d7c144a860 via fabric
+	- fabric-item-api-v1 1.5.2+17cbbd4360 via fabric
+	- fabric-item-groups-v0 0.3.14+91896a4960 via fabric
+	- fabric-key-binding-api-v1 1.0.12+54e5b2ec60 via fabric
+	- fabric-keybindings-v0 0.2.10+b4f4f6cd60 via fabric
+	- fabric-language-kotlin 1.8.2+kotlin.1.7.10
+	- fabric-lifecycle-events-v1 2.1.0+cc71601c60 via fabric
+	- fabric-loot-api-v2 1.1.0+1997ad1260 via fabric
+	- fabric-loot-tables-v1 1.1.2+e747827960 via fabric
+	- fabric-mining-level-api-v1 2.1.4+cc71601c60 via fabric
+	- fabric-models-v0 0.3.6+d7c144a860 via fabric
+	- fabric-networking-api-v1 1.0.23+2d30af4b60 via fabric
+	- fabric-networking-v0 0.3.10+b4f4f6cd60 via fabric
+	- fabric-object-builder-api-v1 2.1.3+032c981d60 via fabric
+	- fabric-particles-v1 0.2.12+526dc1ac60 via fabric
+	- fabric-permissions-api-v0 0.1-SNAPSHOT via bewitchment
+	- fabric-registry-sync-v0 0.9.10+0d9ab37260 via fabric
+	- fabric-renderer-api-v1 0.4.13+d882b91560 via fabric
+	- fabric-renderer-indigo 0.5.3+41a02c8a60 via fabric
+	- fabric-renderer-registries-v1 3.2.11+b4f4f6cd60 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.7+d7c144a860 via fabric
+	- fabric-rendering-fluids-v1 2.0.2+54e5b2ec60 via fabric
+	- fabric-rendering-v0 1.1.13+b4f4f6cd60 via fabric
+	- fabric-rendering-v1 1.10.7+54e5b2ec60 via fabric
+	- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660 via fabric
+	- fabric-resource-loader-v0 0.5.2+446e059560 via fabric
+	- fabric-screen-api-v1 1.0.10+d882b91560 via fabric
+	- fabric-screen-handler-api-v1 1.2.2+1f6558e860 via fabric
+	- fabric-textures-v0 1.0.12+3ac43d9560 via fabric
+	- fabric-transfer-api-v1 1.6.3+f4563ac860 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.0+e747827960 via fabric
+	- fabricloader 0.14.9
+	- fake-player-api 0.3.0 via create
+	- farmersdelight 1.18.2-1.2.0
+	- farmingforblockheads 10.0.2
+	- feature_nbt_deadlock_be_gone 2.0.0+1.18.2-rc1
+	- ferritecore 4.2.1
+	- fiber 0.23.0-2 via botania
+	- findme 3.0.6
+	- floral_flair 1.3.0
+	- flytre_lib 1.8.1
+	- flywheel 0.6.4-30 via create
+	- forge_tags 2.2 via compactmachines
+	- forgeconfigapiport 3.2.3
+	- ftbchunks 1802.3.6-build.147
+	- ftblibrary 1802.3.6-build.140
+	- ftbquests 1802.3.8-build.101
+	- ftbteams 1802.2.6-build.51
+	- ftbultimine 1802.3.3-build.55
+	- gateofbabylon 1.7.0-1.18.2
+	- gbfabrictools 1.2.2+1.16 via overloadedarmorbar
+	- geckolib3 3.0.59
+	- geodes 1.4.2
+	- glassential 1.3.0
+	- go-fish 1.5.0-1.18.2
+	- goblintraders 1.5.1
+	- goldenhoppers 1.3.3
+	- goodall 1.0.2
+	- goosik-config 0.2.0 via visuality
+	- graveyard 1.9
+	- graveyard_biomes 1.1
+	- guardvillagers 1.18.2-1.0.14
+	- guild 0.4.0
+	- hardcorerevival 8.0.1
+	- harvest_scythes 2.5.1
+	- healthoverlay 6.3.4
+	- here-be-no-dragons 1.0.0 via twilightforest
+	- horseinfo 0.4.1-1.18
+	- iceberg 1.0.38
+	- icy-incitement 1.18.2-fabric-1.1.3
+	- iknowwhatimdoing 4.1.0
+	- impaled 1.1.3
+	- impersonate 2.4.1 via bewitchment
+	- improved-stations 2.1.0
+	- incantationem 1.1.3+1.18.2
+	- incubus_core 1.7.1 via spectrum
+	- indium 1.0.7+mc1.18.2
+	- indrev 1.14.0-BETA
+	- infusion_table 1.1.0
+	- inmis 2.6.0-1.18.2
+	- inventoryhud 3.4.2
+	- inventorysorter 1.8.8-1.18
+	- io_leangen_geantyref_geantyref 1.3.11 via croptopia
+	- iris 1.2.6
+	- iron-jetpacks 0.4.3
+	- itemfilters 1802.2.7-build.21
+	- jamlib 0.0.5
+	- jankson 4.0.0+j1.2.0 via libgui
+	- java 17
+	- javax_annotation_javax_annotation-api 1.3.2 via twilightforest
+	- jsonem 0.1.2 via automobility
+	- jumpoverfences 1.16-0.0.3
+	- kanos_config 0.3.1+1.14.4-1.19 via pehkui
+	- kibe 1.9.9-BETA+1.18
+	- kjsextras 3.0.0
+	- kleeslabs 11.1.1
+	- ktdatataglib 1.6.5+1.18.2 via dml-refabricated
+	- kubejs 1802.5.4-build.533
+	- kubejs_create 1802.2.2-build.28
+	- kyrptconfig 1.4.6-1.18 via inventorysorter
+	- lambdynlights 2.1.0+1.17
+	- lazydfu 0.1.2
+	- legendarytooltips 1.2.5
+	- libblockattributes_core 0.10.0 via indrev
+	- libblockattributes_fluids 0.10.0 via indrev
+	- libblockattributes_items 0.10.0 via indrev
+	- libgui 5.4.0+1.18.2 via dark-enchanting
+	- libninepatch 1.1.0 via libgui
+	- lifts 1.4.1-BETA+1.18
+	- lightoverlay 6.0.5
+	- lithium 0.7.10
+	- logbegone 1.0.1
+	- logprot 1.18-1.6
+	- lootr 0.3.23.60
+	- lovely_snails 1.0.4+1.18
+	- luggage 1.3.2
+	- maelstrom_library 1.2.4-1.18.2 via bosses_of_mass_destruction
+	- magicalforest 2.0.3
+	- magna 1.7.0-1.18-pre1 via indrev
+	- maybe-data 1.3.1-1.18.2 via deepslatecutting
+	- mcwbridges 2.0.3
+	- mcwdoors 1.0.7
+	- mcwfences 1.0.6
+	- mcwlights 1.0.4
+	- mcwpaintings 1.0.4
+	- mcwpaths 1.0.1
+	- mcwroofs 2.1.2
+	- mcwtrpdoors 1.0.7
+	- mcwwindows 2.0.3
+	- megane 7.8.0
+	- megane-api 7.8.0 via megane
+	- megane-applied-energistics-2 7.8.0 via megane
+	- megane-create 7.8.0 via megane
+	- megane-deep-mob-learning-simulacrum 7.8.0 via megane
+	- megane-extra-generators 7.8.0 via megane
+	- megane-fabric-transfer 7.8.0 via megane
+	- megane-industrial-revolution 7.8.0 via megane
+	- megane-kibe 7.8.0 via megane
+	- megane-lib-block-attributes 7.8.0 via megane
+	- megane-luggage 7.8.0 via megane
+	- megane-modern-dynamics 7.8.0 via megane
+	- megane-reborn-core 7.8.0 via megane
+	- megane-reborn-energy 7.8.0 via megane
+	- megane-runtime 7.8.0 via megane
+	- megane-tech-reborn 7.8.0 via megane
+	- megane-vanilla 7.8.0 via megane
+	- megane-wireless-networks 7.8.0 via megane
+	- megaparrot 1.0.5
+	- midnightlib 0.4.0 via picturesign
+	- milk 0.3.2 via create
+	- minecarttweaks 1.5
+	- minecraft 1.18.2
+	- mm 2.3 via buildinggadgets
+	- mobscarecrow 2.1.1
+	- mocolors 1.4.0
+	- modern_industrialization 1.2.2
+	- moderndynamics 0.2.4-beta
+	- modmenu 3.2.3
+	- morevillagers 3.3.2
+	- mostructures 1.4.2+1.18.2
+	- mousetweaks 2.22
+	- mtmechs 1.0.12
+	- multipart_entities 1.1.5-1.18.2 via bosses_of_mass_destruction
+	- myron 1.6.3+1.18.1 via automobility
+	- mythicmounts 1.18.2-7.0
+	- naturalist 1.1.1
+	- naturescompass 1.18.2-2.0.3-fabric
+	- nears 1.1.8
+	- netherportalfix 9.0.0
+	- no_angled_brackets 1.0.0
+	- no_null_processors 2.0.1+1.18.1
+	- noindium 1.0.2+1.18.2 via ae2
+	- omega-config 1.2.3-1.18.1 via coxinhautilities
+	- omega-config-gui 1.2.3-1.18.1 via coxinhautilities
+	- onastick 2.0.0
+	- openloader 12.0.1
+	- org_anarres_jcpp 1.4.14 via iris
+	- org_aperlambda_lambdajcommon 1.8.1 via spruceui
+	- org_codehaus_groovy_groovy 3.0.8 via slight-gui-modifications
+	- org_codehaus_groovy_groovy-jsr223 3.0.8 via slight-gui-modifications
+	- org_jetbrains_kotlin_kotlin-reflect 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.7.10 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_atomicfu-jvm 0.18.2 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.3.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.3.3 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.3.3 via fabric-language-kotlin
+	- org_joml_joml 1.10.2 via sodium
+	- org_spongepowered_configurate-core 4.1.2 via croptopia
+	- org_spongepowered_configurate-hocon 4.1.2 via croptopia
+	- overloadedarmorbar 1.18.1-6
+	- owo 0.7.2-no-cme+1.18
+	- paginatedadvancements 1.1.0
+	- patchouli 1.18.2-71.1-FABRIC
+	- pehkui 3.4.1+1.14.4-1.19.2
+	- peripheralium 0.1.1
+	- peripheralworks 0.1.2
+	- phosphor 0.8.1
+	- picturesign 1.4.0
+	- piercingpaxels 1.0.1+1.18.2
+	- pigpen 8.0.1
+	- playerabilitylib 1.5.0 via besmirchment
+	- pling 1.5.0
+	- plushies 1.2
+	- polylib 1801.0.2-build.13
+	- porting_lib 1.2.466-beta+1.18.2-dev.0251f31 via compactmachines
+	- pride 1.1.0+1.17 via lambdynlights
+	- probablychests 0.5.3-1.18.2
+	- programmerartinjector 1.2.1 via spectrum
+	- promenade 2.6.3
+	- pyrotastic 1.18.2+0.0.2
+	- questsadditions 1.3.1
+	- quickshulker 1.3.6-1.18
+	- rare-ice 0.4.1
+	- ratsmischief 1.3.7
+	- reach-entity-attributes 2.1.1 via beaconoverhaul
+	- reborncore 5.2.0
+	- redstonebits 1.8.2
+	- registrate-fabric MC1.18.2-1.1.3 via create
+	- replanter 1.3
+	- repurposed_structures 4.1.14+1.18.2
+	- respawnablepets 1.18-4
+	- revelationary 1.0.0
+	- rhino 1802.1.14-build.209
+	- rightclickharvest 3.0.0+1.18
+	- roughlyenoughitems 8.3.529
+	- roughlyenoughprofessions 1.0.1
+	- roughlyenoughresources 2.5.0
+	- runelic 11.0.1
+	- satin 1.7.2 via spectrum
+	- secretrooms 1.3.1+1.18.2
+	- serialization_hooks 0.3.23 via porting_lib
+	- shulkerboxtooltip 3.1.1+1.18.2
+	- shulkerutils 1.0.4-1.18 via quickshulker
+	- simpleteleporters 2.3.0
+	- simplevoidworld 4.0.0
+	- slight-gui-modifications 2.1.0
+	- slimyfloor 1.18-1.2.2
+	- slotlock 1.0.4-BETA+1.18
+	- smootherbedrock 1.0.4
+	- smwyg 1.0.1
+	- sodium 0.4.1+build.15
+	- someforgepatchesported 1.0.3
+	- spark 1.9.11
+	- spectrum 1.5.0-1.18.2-magic
+	- speedometer 1.1.0
+	- spirit 2.1.8
+	- spruceui 3.3.0+1.17 via lambdynlights
+	- staffofbuilding 1.4.1-1.18.1
+	- static-content 1.0.2-1.16.2 via vanilla-hammers
+	- staticdata 1.1.2 via static-content
+	- step-height-entity-attribute 1.0.0 via artifacts
+	- stoneholm 1.4.3
+	- strawdummy 1.7.0
+	- structory 1.0.0
+	- team_reborn_energy 2.2.0 via ad_astra
+	- techreborn 5.2.0
+	- terrablender 1.1.0.102
+	- terraform-shapes-api-v1 2.1.0 via promenade
+	- terraform-wood-api-v1 3.0.0 via besmirchment
+	- terrarianslimes 1.2.1-BETA+1.18
+	- thatched 1.1.0
+	- thonkutil 2.14.1+1.18
+	- thonkutil-base 1.12.2+23c1dc2c60 via thonkutil
+	- thonkutil-capes-v1 1.3.2+9e23427060 via thonkutil
+	- thonkutil-coords-v1 1.0.19+9b80223760 via thonkutil
+	- thonkutil-customization-v1 1.0.14+9b80223760 via thonkutil
+	- thonkutil-legacy 1.0.20+9b80223760 via thonkutil
+	- thonkutil-modchecker-v1 1.0.12+9b80223760 via thonkutil
+	- thonkutil-potions-v0 1.4.1+9b80223760 via thonkutil
+	- thonkutil-titlescreen-v1 1.1.9+9b80223760 via thonkutil
+	- thonkutil-trades-v1 1.1.20+9b80223760 via thonkutil
+	- timeoutout 1.0.1+1.18
+	- tipsmod 5.0.3
+	- tlcosmetica 0.4.0 via visuality
+	- toolstats 9.0.3
+	- tooltipfix 1.0.4-1.18
+	- totemmod 0.3.5-1.18.2-pre2
+	- totw_additions 1.2.1
+	- transportables 1.2
+	- trapexpansion 1.3.3
+	- trashslot 11.0.2
+	- travelersbackpack 1.18.2-7.1.5
+	- trinketofundying 2.0.2-1.18.2
+	- trinkets 3.3.1
+	- twigs 1.1.3-patch2+1.18.2
+	- twilightforest 4.1.268
+	- vanilla-hammers 3.4.0-1.18.2
+	- vanillaexcavators 1.1.0
+	- villager-hats 1.4.0
+	- visuality 0.4.2
+	- voidtotem 1.18.2-1.3.1
+	- waystones 2.5.5+mc1.18.2
+	- wildbackport 1.2.1
+	- wildlife 1.18.2-2.0
+	- wirelessnetworks 1.5.1
+	- wmitaf 2.4.0
+	- wolveswitharmor 1.7.1-1.18.2
+	- wthit 4.13.1
+	- xlpackets 2.1-1.17.1
+	- xps 0.4.4.r_for_1.18.x_Fabric
+	- yigd 1.3.8
+	- yungsapi 1.18.2-Fabric-2.0.8
+	- yungsbridges 1.18.2-Fabric-2.1.0
+	- yungsextras 1.18.2-Fabric-2.1.0
+[17:57:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/kiora/curseforge/minecraft/Install/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[17:57:29] [main/INFO]: Compatibility level set to JAVA_17
+[17:57:29] [main/WARN]: Reference map 'AEAdditions-1.18.2-refmap.json' for ae2additions.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'axolotl-item-fix-refmap.json' for axolotlitemfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'dual_riders-1.18.2-1.1.1-fabric-refmap.json' for dual_riders-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'fabric-experiencebugfix-1.18-refmap.json' for experiencebugfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'Floral-Flair-refmap.json' for floral_flair.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'goodall-fabric-refmap.json' for goodall.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'JamLib-refmap.json' for jamlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/INFO]: Loaded configuration file for Lithium: 102 options available, 1 override(s) found
+[17:57:29] [main/WARN]: Reference map 'Modern-Dynamics-refmap.json' for moderndynamics.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'morevillagers-fabric-fabric-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'Peripheralium-refmap.json' for peripheralium.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'peripheralworks-refmap.json' for peripheralworks.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'replanter-fabric-1.18.2-refmap.json' for replanter.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'RightClickHarvest-refmap.json' for rightclickharvest.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: [Satin] Sodium is present, custom block renders may not work
+[17:57:29] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[17:57:29] [main/WARN]: Reference map 'wildlife-refmap.json' for wildlife.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:29] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:57:30] [main/WARN]: Error loading class: io/github/apace100/apoli/power/factory/condition/ConditionFactory (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/factory/condition/ConditionFactory)
+[17:57:30] [main/WARN]: @Mixin target io.github.apace100.apoli.power.factory.condition.ConditionFactory was not found mixins.artifacts.json:compat.origins.ConditionFactoryAccessor from mod artifacts
+[17:57:30] [main/WARN]: Error loading class: eu/midnightdust/midnightcontrols/client/controller/InputHandlers (java.lang.ClassNotFoundException: eu/midnightdust/midnightcontrols/client/controller/InputHandlers)
+[17:57:31] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[17:57:31] [main/WARN]: Error loading class: net/minecraft/class_5382 (java.lang.ClassNotFoundException: net/minecraft/class_5382)
+[17:57:31] [main/WARN]: @Mixin target net.minecraft.class_5382 was not found no_null_processors.mixins.json:RegistryReadOpsMixin from mod no_null_processors
+[17:57:31] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[17:57:31] [main/WARN]: Error loading class: net/coderbot/iris/layer/IrisRenderTypeWrapper (java.lang.ClassNotFoundException: net/coderbot/iris/layer/IrisRenderTypeWrapper)
+[17:57:31] [main/WARN]: @Mixin target net.coderbot.iris.layer.IrisRenderTypeWrapper was not found mixins.satin.client.json:iris.IrisRenderLayerWrapperMixin from mod satin
+[17:57:31] [main/INFO]: I used the json to destroy the json
+[17:57:32] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[17:57:33] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath
+[17:57:33] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[17:57:34] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on dripstone_fluid_lib.mixins.json:MinecraftClientMixin from mod dripstone_fluid_lib::handler$dmo000$dripstone_fluid_lib$handleParticles exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[17:57:37] [main/WARN]: Method overwrite conflict for setTranslation in flywheel.fabric.mixins.json:Matrix4fMixin from mod flywheel, previously written by io.github.fabricators_of_create.porting_lib.mixin.common.Matrix4fMixin. Skipping method.
+[17:57:38] [main/INFO]: Trying to read config file...
+[17:57:38] [main/INFO]: A config file was found, loading it..
+[17:57:38] [main/INFO]: Successfully loaded config file.
+[17:57:39] [main/ERROR]: No data fixer registered for marker
+[17:57:40] [main/WARN]: @ModifyConstant conflict. Skipping yungsapi.mixins.json:IncreaseStructureWeightLimitMixin from mod yungsapi->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by repurposed_structures.mixins.json:structures.StructurePoolMixin from mod repurposed_structures->@ModifyConstant::repurposedstructures_increaseWeightLimitProd(I)I with priority 1000
+[17:57:41] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[17:57:41] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:57:42] [Render thread/INFO]: Setting user: Kioraga
+[17:57:42] [Render thread/INFO]: Ad Astra Initialized! ?
+[17:57:44] [Render thread/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[17:57:44] [Render thread/INFO]: [AqUpd's mobs] Caracal mod is loaded!
+[17:57:44] [Render thread/INFO]: [AqUpd's Mobs] Grizzly Bears mod is loaded!
+[17:57:44] [Render thread/INFO]: imagine people still looking for these :hahayes:
+[17:57:44] [Render thread/INFO]: Finished initialization
+[17:57:44] [Render thread/INFO]: Loading config file
+[17:57:44] [Render thread/INFO]: Config file loaded
+[17:57:44] [Render thread/INFO]: Loaded config file.
+[17:57:44] [Render thread/INFO]: Saved config file.
+[17:57:44] [Render thread/INFO]: BetterPingDisplay mod loaded
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:entity_particle
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:lightning_splash
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:lightning_entity
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:poltergeist_particle
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:witch_quests
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:bm_effect
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:entity_event
+[17:57:45] [Render thread/INFO]: Registering S2C receiver with id biomemakeover:slide_time
+[17:57:45] [Render thread/INFO]: Registering C2S receiver with id biomemakeover:cl_complete_quest
+[17:57:45] [Render thread/INFO]: Registering C2S receiver with id biomemakeover:update_dir_data
+[17:57:45] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[17:57:45] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23180 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[17:57:46] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[17:57:46] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[17:57:46] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[17:57:46] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[17:57:46] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[17:57:46] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:mana_burst
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:pixie
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:flame_ring
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:vine_ball
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:doppleganger
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:magic_landmine
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:spark
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:thrown_item
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:magic_missile
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:thorn_chakram
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:corporea_spark
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:ender_air_bottle
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:pool_minecart
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:pink_wither
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:player_mover
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:mana_storm
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:babylon_weapon
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:falling_star
+[17:57:46] [Render thread/ERROR]: No data fixer registered for botania:ender_air
+[17:57:47] [Render thread/INFO]: BYG registries bootstrapped
+[17:57:47] [Render thread/ERROR]: No data fixer registered for byg:boat
+[17:57:47] [Render thread/INFO]: Initializing BYG network...
+[17:57:47] [Render thread/INFO]: Initialized BYG network!
+[17:57:47] [Render thread/INFO]: Oh The Biomes You'll Go (BYG) was initialized from "Fabric Mod Initializer"
+[17:57:47] [Render thread/INFO]: Capybara is downloaded, loading now! Thanks for installing! <3
+[17:57:47] [Render thread/INFO]: [Chalk] Registering blocks and items...
+[17:57:47] [Render thread/INFO]: [Chalk] Startup finished!
+[17:57:47] [Render thread/INFO]: Initializing Chassis
+[17:57:48] [Render thread/ERROR]: General failure during configuration parsing
+com.google.gson.JsonParseException: Vector4f: settings.placement.color.success is not an array
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationBuilder.lambda$defineVector4f$1(FabricConfigurationBuilder.java:84) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationValue.get(FabricConfigurationValue.java:46) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationSpec.forceGetAll(FabricConfigurationSpec.java:36) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationManager.lambda$createBuilder$5(FabricConfigurationManager.java:92) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationBuilder.setup(FabricConfigurationBuilder.java:228) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.config.ClientConfiguration.<init>(ClientConfiguration.java:77) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.config.ChiselsAndBitsConfiguration.<init>(ChiselsAndBitsConfiguration.java:11) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.ChiselsAndBits.<init>(ChiselsAndBits.java:30) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.FabricChiselsAndBitsMod.onInitialize(FabricChiselsAndBitsMod.java:37) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52) [fabric-loader-0.14.9.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:452) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:197) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.9.jar:?]
+[17:57:48] [Render thread/ERROR]: General failure during configuration parsing
+com.google.gson.JsonParseException: Vector4f: settings.placement.color.not-fitting is not an array
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationBuilder.lambda$defineVector4f$1(FabricConfigurationBuilder.java:84) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationValue.get(FabricConfigurationValue.java:46) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationSpec.forceGetAll(FabricConfigurationSpec.java:36) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationManager.lambda$createBuilder$5(FabricConfigurationManager.java:92) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationBuilder.setup(FabricConfigurationBuilder.java:228) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.config.ClientConfiguration.<init>(ClientConfiguration.java:77) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.config.ChiselsAndBitsConfiguration.<init>(ChiselsAndBitsConfiguration.java:11) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.ChiselsAndBits.<init>(ChiselsAndBits.java:30) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.FabricChiselsAndBitsMod.onInitialize(FabricChiselsAndBitsMod.java:37) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52) [fabric-loader-0.14.9.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:452) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:197) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.9.jar:?]
+[17:57:48] [Render thread/ERROR]: General failure during configuration parsing
+com.google.gson.JsonParseException: Vector4f: settings.placement.color.missing-bits-or-space is not an array
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationBuilder.lambda$defineVector4f$1(FabricConfigurationBuilder.java:84) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationValue.get(FabricConfigurationValue.java:46) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationSpec.forceGetAll(FabricConfigurationSpec.java:36) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationManager.lambda$createBuilder$5(FabricConfigurationManager.java:92) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.platform.configuration.FabricConfigurationBuilder.setup(FabricConfigurationBuilder.java:228) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.config.ClientConfiguration.<init>(ClientConfiguration.java:77) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.config.ChiselsAndBitsConfiguration.<init>(ChiselsAndBitsConfiguration.java:11) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.ChiselsAndBits.<init>(ChiselsAndBits.java:30) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at mod.chiselsandbits.fabric.FabricChiselsAndBitsMod.onInitialize(FabricChiselsAndBitsMod.java:37) ~[ChiselsBits-fabric-1.18.2-1.2.113.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52) [fabric-loader-0.14.9.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:452) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:197) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.9.jar:?]
+[17:57:48] [Render thread/INFO]: Loaded block entity configuration.
+[17:57:48] [Render thread/INFO]: Loaded block configuration.
+[17:57:48] [Render thread/INFO]: Loaded chisel mode group configuration.
+[17:57:48] [Render thread/INFO]: Loaded chisel mode configuration.
+[17:57:48] [Render thread/INFO]: Loaded container type configuration.
+[17:57:48] [Render thread/INFO]: Loaded item group configuration.
+[17:57:48] [Render thread/INFO]: Loaded item configuration.
+[17:57:48] [Render thread/INFO]: Loaded metadata key configuration.
+[17:57:48] [Render thread/INFO]: Loaded model property configuration.
+[17:57:48] [Render thread/INFO]: Loaded modification operation configuration.
+[17:57:48] [Render thread/INFO]: Loaded modification operation group configuration.
+[17:57:48] [Render thread/INFO]: Loaded pattern placement type configuration.
+[17:57:48] [Render thread/INFO]: Registering recipe types.
+[17:57:48] [Render thread/INFO]: Loaded recipe serializer configuration.
+[17:57:48] [Render thread/INFO]: Loaded tag configuration.
+[17:57:48] [Render thread/INFO]: Configs for "compressor" already exist, skipping first generation
+[17:57:48] [Render thread/INFO]: Resources for "compressor" already exist, skipping first generation
+[17:57:51] [Render thread/INFO]: Booting up Compressor
+[17:57:52] [Render thread/WARN]: No features are enabled, this could be a bug!
+[17:57:53] [Render thread/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[17:57:53] [Render thread/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[17:57:53] [Render thread/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[17:57:53] [Render thread/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[17:57:53] [Render thread/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[17:57:54] [Render thread/INFO]: [Croptosis] has been initiated.
+[17:57:54] [Render thread/INFO]: The trashcans has been loaded!
+[17:57:54] [Render thread/ERROR]: No data fixer registered for decorative_blocks:dummy
+[17:57:54] [Render thread/INFO]: Loaded Config! Regular deepslate extras are OFF
+[17:57:54] [Render thread/INFO]: Deep Mob Learning: Refabricated is good to go
+[17:57:54] [Render thread/INFO]: Trying to read config file...
+[17:57:54] [Render thread/INFO]: A config file was found, loading it..
+[17:57:54] [Render thread/INFO]: Successfully loaded config file.
+[17:57:54] [Render thread/INFO]: Dusk initialized
+[17:57:55] [Render thread/INFO]: ExpandAbility here, who dis?
+[17:57:55] [Render thread/WARN]: @Final field field_21708:Lnet/minecraft/class_2960; in biomemakeover-common.mixins.json:client.SheetsMixin from mod biomemakeover should be final
+[17:57:55] [Render thread/INFO]: Registering pehkui effects
+[17:57:55] [Render thread/INFO]: Registered 16 status effects
+[17:57:55] [Render thread/INFO]: Registered dummy effects
+[17:57:55] [Render thread/INFO]: Registering pehkui potions
+[17:57:55] [Render thread/INFO]: Registered 39 potions
+[17:57:55] [Render thread/INFO]: Registering pehkui recipes
+[17:57:55] [Render thread/INFO]: Trying to read config file...
+[17:57:55] [Render thread/INFO]: A config file was found, loading it..
+[17:57:55] [Render thread/INFO]: Successfully loaded config file.
+[17:57:55] [Render thread/ERROR]: No data fixer registered for farmingforblockheads:merchant
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id findme:default/93a3df5fb37f371cb25c481f6e5b9323
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id findme:default/93a3df5fb37f371cb25c481f6e5b9323
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id findme:default/b71e26ec071d32928d9fb5d2c3ec8a7a
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id findme:default/b71e26ec071d32928d9fb5d2c3ec8a7a
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbchunks:request_map_data
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:send_all_chunks
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:login_data
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:send_chunk
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:send_general_data
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:player_death
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:send_visible_player_list
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbchunks:sync_tx
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:sync_rx
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbchunks:loaded_chunk_view
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:sync_quests
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:sync_team_data
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:update_task_progress
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:claim_reward_response
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:create_other_team_data
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:display_completion_toast
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:display_reward_toast
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:update_team_data
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:object_started
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:object_completed
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:object_started_reset
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:object_completed_reset
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:sync_lock
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:reset_reward
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:team_data_changed
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:create_object
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:create_object_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:delete_object_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:edit_object_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:move_chapter_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:move_quest_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbteams:send_message
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbteams:create_party
+[17:57:55] [Render thread/INFO]: Registering S2C receiver with id ftbultimine:send_shape
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[17:57:55] [Render thread/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[17:57:55] [Render thread/INFO]: Beginning More Geodes initialization
+[17:57:55] [Render thread/INFO]: More Geodes initialized!
+[17:57:56] [Render thread/INFO]: [Hwyla Addon Horse Info] Initializing Hwyla Addon Horse Info
+[17:57:56] [Render thread/INFO]: Industrial Revolution has initialized.
+[17:57:56] [Render thread/INFO]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[17:57:56] [Render thread/INFO]: Registering S2C receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[17:57:56] [Render thread/INFO]: JamLib has been initialized
+[17:57:56] [Render thread/INFO]: creating Trinket AbilityRing for minecraft:mayfly
+[17:57:56] [Render thread/INFO]: creating Trinket AbilityRing for kibe:magma_ability
+[17:57:56] [Render thread/INFO]: creating Trinket AbilityRing for kibe:water_ability
+[17:57:56] [Render thread/INFO]: Trying to read config file...
+[17:57:56] [Render thread/INFO]: A config file was found, loading it..
+[17:57:56] [Render thread/INFO]: Successfully loaded config file.
+[17:57:56] [Render thread/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[17:57:56] [Render thread/INFO]: Looking for KubeJS plugins...
+[17:57:56] [Render thread/INFO]: Found plugin source kubejs
+[17:57:57] [Render thread/INFO]: Found plugin source kubejs_create
+[17:57:57] [Render thread/INFO]: Found plugin source ftbchunks
+[17:57:57] [Render thread/INFO]: Found plugin source ftbquests
+[17:57:57] [Render thread/INFO]: Found plugin source modern_industrialization
+[17:57:57] [Render thread/INFO]: Done in 25.51 ms
+[17:57:57] [Render thread/INFO]: Loaded common.properties
+[17:57:57] [Render thread/INFO]: Rhino properties loaded.
+[17:57:57] [Render thread/INFO]: Loaded script startup_scripts:aof5_logo.js in 0.063 s
+[17:57:57] [Render thread/INFO]: Loaded script startup_scripts:worldgen.js in 0.001 s
+[17:57:57] [Render thread/INFO]: Loaded 2/2 KubeJS startup scripts in 0.211 s
+[17:57:57] [Render thread/INFO]: Loaded script client_scripts:rei_removals.js in 0.002 s
+[17:57:57] [Render thread/INFO]: Loaded script client_scripts:rei_unification.js in 0.002 s
+[17:57:57] [Render thread/INFO]: Loaded 2/2 KubeJS client scripts in 0.008 s
+[17:57:57] [Render thread/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[17:57:57] [Render thread/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[17:57:57] [Render thread/INFO]: Registering S2C receiver with id kubejs:paint
+[17:57:57] [Render thread/INFO]: Registering S2C receiver with id kubejs:add_stage
+[17:57:57] [Render thread/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[17:57:57] [Render thread/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[17:57:57] [Render thread/INFO]: Trying to read config file...
+[17:57:57] [Render thread/INFO]: A config file was found, loading it..
+[17:57:57] [Render thread/INFO]: Successfully loaded config file.
+[17:57:57] [Render thread/INFO]: Shields up!
+[17:57:57] [Render thread/INFO]: Lootr is installed, loading now! Thanks for installing! <3
+[17:57:57] [Render thread/ERROR]: No data fixer registered for luggage:luggage
+[17:57:57] [Render thread/INFO]: Registering ModBlocks for mcwbridges
+[17:57:57] [Render thread/INFO]: Registering Mod Items for mcwbridges
+[17:57:57] [Render thread/INFO]: Registering ModBlocks for mcwdoors
+[17:57:57] [Render thread/INFO]: Registering Mod Items for mcwdoors
+[17:57:57] [Render thread/INFO]: Registering ModBlocks for mcwfences
+[17:57:57] [Render thread/INFO]: Registering ModBlocks for mcwlights
+[17:57:57] [Render thread/INFO]: Registering Paintings for mcwpaintings
+[17:57:57] [Render thread/INFO]: Registering ModBlocks for mcwpaths
+[17:57:58] [Render thread/INFO]: Registering ModBlocks for mcwroofs
+[17:57:58] [Render thread/INFO]: Registering Mod Items for mcwroofs
+[17:57:58] [Render thread/INFO]: Registering ModBlocks for mcwtrpdoors
+[17:57:58] [Render thread/INFO]: Registering Mod Items for mcwtrpdoors
+[17:57:58] [Render thread/INFO]: Registering ModBlocks for mcwwindows
+[17:57:58] [Render thread/INFO]: Registering Mod Items for mcwwindows
+[17:57:58] [Render thread/ERROR]: No data fixer registered for megaparrot:megaparrot
+[17:57:58] [Render thread/INFO]: Definitely not up to no good
+[17:57:58] [Render thread/INFO]: [Mob-Scarecrow] is initializing.
+[17:57:58] [Render thread/INFO]: [Mob-Scarecrow] has successfully been initialized.
+[17:57:58] [Render thread/INFO]: [Mob-Scarecrow] if you have any issues or questions feel free to join my Discord: https://discord.gg/fvcFxTg6sB
+[17:57:58] [Render thread/INFO]: Setting up Nuclear Items
+[17:57:58] [Render thread/INFO]: Modern Industrialization setup done!
+[17:57:58] [Render thread/INFO]: Successfully loaded Modern Dynamics!
+[17:57:58] [Render thread/INFO]: Let there be nears!
+[17:57:58] [Render thread/INFO]: Initializing On A Stick
+[17:57:58] [Render thread/INFO]: Initialized On A Stick
+[17:57:59] [Render thread/INFO]: Loading integration for team_reborn_energy
+[17:57:59] [Render thread/INFO]: [Probably-Chests] is initializing.
+[17:57:59] [Render thread/INFO]: [Probably-Chests] has successfully been initialized.
+[17:57:59] [Render thread/INFO]: [Probably-Chests] if you have any issues or questions feel free to join my Discord: https://discord.gg/fvcFxTg6sB
+[17:57:59] [Render thread/INFO]: registering for pyrotastic
+[17:57:59] [Render thread/INFO]: Registering C2S receiver with id questsadditions:submit_structure
+[17:57:59] [Render thread/INFO]: Redstone Bits config version 1
+[17:57:59] [Render thread/INFO]: [Revelationary] Starting Common Startup
+[17:57:59] [Render thread/INFO]: [Revelationary] Common startup completed!
+[17:57:59] [Render thread/INFO]: [rightclickharvest]Mod initialized!
+[17:57:59] [Render thread/INFO]: [REI] Config loaded
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider CompactMachinesReiPlugin [compactmachines] for REIPlugin
+[17:57:59] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
+[17:57:59] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider REICommonIntegration [spectrum] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider AdornReiClient [adorn] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider DBServerPlugin [decorative_blocks] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider DBClientPlugin [decorative_blocks] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Ellemes' Container Library, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider ReiCompat [ellemes_container_lib] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by EnchantmentDescriptions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider EnchDescREI [enchdesc] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by FTB Quests, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider FTBQuestsREIIntegration [ftbquests] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider ImprovedStationsREIContainerInfo [improved-stations] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider ImprovedStationsREIPlugin [improved-stations] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Industrial Revolution, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider REIPlugin [indrev] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Roughly Enough Professions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Roughly Enough Resources, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:57:59] [Render thread/INFO]: [REI] Registered plugin provider PluginEntry [roughlyenoughresources] for REIPlugin
+[17:57:59] [Render thread/WARN]: The entrypoint used by Tech Reborn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [techreborn] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by The Twilight Forest, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REI [twilightforest] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by WMITAF, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider WmitafReiPluginImpl [wmitaf] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by wthit, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ReiRecipeLookup [wthit] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider AdAstraClientPlugin [ad_astra] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider APPlugin [architects_palette] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REIPlugin [chiselsandbits] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider create:rei_plugin [create] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REIClientIntegration [spectrum] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider SpiritPlugin [spirit] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Applied Energistics 2, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider AE2 [ae2] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by AE2Things, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REI [ae2things] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by AE2WTLib, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ae2wtlib [ae2wtlib] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Artifacts, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REIPlugin [artifacts] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Bewitchment, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider BWREIPlugin [bewitchment] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Catwalks Inc., "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider CatwalksIncREI [catwalksinc] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Chipped, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REIChippedPlugin [chipped] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Chisel Refabricated, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ChiselREI [chisel] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ConjuringClientPlugin [conjuring] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ConjuringCommonPlugin [conjuring] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Coxinha Utilities, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [coxinhautilities] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Crafting Tweaks, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider RoughlyEnoughItemsIntegration [craftingtweaks] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by DML: Refabricated - REI Integration, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [dml-refabricated-rei] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Farmer's Delight, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider FarmersDelightModREI [farmersdelight] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by FTB Library, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REIIntegration [ftblibrary] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by KubeJS, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider KubeJSREIPlugin [kubejs] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider MIREIPlugin [modern_industrialization] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider FluidFuelsPlugin [modern_industrialization] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ForgeHammerRecipePlugin [modern_industrialization] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider MachinesPlugin [modern_industrialization] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider NeutronInteractionPlugin [modern_industrialization] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Dynamics, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider MdReiPlugin [moderndynamics] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by o?o, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by TrashSlot, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider RoughlyEnoughItemsIntegration [trashslot] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Botania, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider BotaniaREIPlugin [botania] for REIPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Extra Generators, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ReiCompat [extragenerators] for REIPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider REICommonIntegration [spectrum] for REIServerPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIServerPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider DBServerPlugin [decorative_blocks] for REIServerPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Ellemes' Container Library, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by EnchantmentDescriptions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by FTB Quests, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ImprovedStationsREIContainerInfo [improved-stations] for REIServerPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Industrial Revolution, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Roughly Enough Professions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Roughly Enough Resources, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Tech Reborn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by The Twilight Forest, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by WMITAF, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by wthit, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Applied Energistics 2, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by AE2Things, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by AE2WTLib, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Artifacts, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Bewitchment, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Catwalks Inc., "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Chipped, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Chisel Refabricated, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider ConjuringCommonPlugin [conjuring] for REIServerPlugin
+[17:58:00] [Render thread/WARN]: The entrypoint used by Coxinha Utilities, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Crafting Tweaks, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by DML: Refabricated - REI Integration, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Farmer's Delight, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by FTB Library, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by KubeJS, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Modern Dynamics, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by o?o, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by TrashSlot, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Botania, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/WARN]: The entrypoint used by Extra Generators, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[17:58:00] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[17:58:00] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[17:58:00] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[17:58:00] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[17:58:00] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[17:58:00] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[17:58:00] [Render thread/INFO]: [RER] RoughlyEnoughPacketSize?  Possibly.
+[17:58:00] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughresources:asi
+[17:58:00] [Render thread/INFO]: [Spectrum] Starting Common Startup
+[17:58:00] [Render thread/INFO]: [Spectrum] Loading config file...
+[17:58:00] [Render thread/INFO]: [Spectrum] Finished loading config file.
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Registries...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Banner Patterns...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Block / Item Color Registries...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Advancement Criteria...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Particle Types...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Sound Events...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Sound Events...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Music...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering BlockSound Groups...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Fluids...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Blocks...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Items...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Block Entities...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Structure Features...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Worldgen Features...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Configured and Placed Features...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Dimension...
+[17:58:00] [Render thread/INFO]: [Spectrum] Registering Recipe Types...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Loot Conditions...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Containers...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Screen Handler Types...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Status Effects...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Default Item Stack Damage Immunities...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Enchantment Drops...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Items to Fuel Registry...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Enchantments...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Entity Types...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Commands...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Client To ServerPackage Receivers...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Data Loaders...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering MultiBlocks...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Flammable Blocks...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Compostable Blocks...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Game Events...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Spell Effects...
+[17:58:01] [Render thread/INFO]: [Spectrum] Initializing Item Groups...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Special Recipes...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Dispenser Behaviors...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering Resource Conditions...
+[17:58:01] [Render thread/INFO]: [Spectrum] Registering RecipeCache reload listener
+[17:58:01] [Render thread/INFO]: [Spectrum] Common startup completed!
+[17:58:01] [Render thread/ERROR]: Error parsing config file for mod spirit
+[17:58:01] [Render thread/ERROR]: Error writing config file for mod spirit
+[17:58:01] [Render thread/INFO]: TechReborn setup done!
+[17:58:01] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[17:58:01] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[17:58:01] [Render thread/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region graveyard_biomes:biome_provider to index 5 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region magicalforest:overworld to index 6 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region promenade:overworld_region to index 7 for type OVERWORLD
+[17:58:01] [Render thread/INFO]: Registered region promenade:nether_region to index 1 for type NETHER
+[17:58:01] [Render thread/INFO]: Registered region wildbackport:overworld to index 8 for type OVERWORLD
+[17:58:01] [Render thread/ERROR]: No data fixer registered for allay
+[17:58:01] [Render thread/ERROR]: No data fixer registered for frog
+[17:58:01] [Render thread/ERROR]: No data fixer registered for tadpole
+[17:58:01] [Render thread/ERROR]: No data fixer registered for warden
+[17:58:01] [Render thread/ERROR]: No data fixer registered for mangrove_boat
+[17:58:01] [Render thread/ERROR]: No data fixer registered for chest_boat
+[17:58:01] [Render thread/INFO]: Trying to read config file...
+[17:58:01] [Render thread/INFO]: A config file was found, loading it..
+[17:58:01] [Render thread/INFO]: Successfully loaded config file.
+[17:58:01] [Render thread/INFO]: [STDOUT]: thonkutil-capes-v1 Init
+[17:58:01] [Render thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for minecraft:water 81000 with the ID 0
+[17:58:01] [Render thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for minecraft:lava 81000 with the ID 1
+[17:58:01] [Render thread/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for travelersbackpack:potion_still 27000 with the ID 2
+[17:58:02] [Render thread/INFO]: Skipped compatibility for mod tconstruct.
+[17:58:02] [Render thread/INFO]: Loaded compatibility for mod Trinkets.
+[17:58:02] [Render thread/INFO]: Loaded 14 Static Content files for vanilla-hammers:hammers
+[17:58:02] [Render thread/INFO]: Is initializing.
+[17:58:02] [Render thread/INFO]: Has successfully been initialized.
+[17:58:02] [Render thread/INFO]: If you have any issues or questions, feel free to join our Discord: https://discord.gg/vMjzgS4.
+[17:58:02] [Render thread/INFO]: Loaded 5 Static Content files for wolveswitharmor:wolf_armor
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin breakprogress:break_progress at io.github.haykam821.breakprogress.BreakProgressWailaPlugin
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin modern_industrialization:plugin at aztech.modern_industrialization.compat.waila.MIWailaPlugin
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin wmitaf:waila_plugin at io.github.shaksternano.wmitaf.client.plugin.wthit.fabric.WmitafWthitPlugin
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin cimtb:cimtb_plugin at me.shedaniel.cimtb.CimtbWailaPlugin
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin minecraft:horseinfo at net.pancham138.horseinfo.HorseInfo
+[17:58:02] [Render thread/INFO]: [Hwyla Addon Horse Info] Registering 
+[17:58:02] [Render thread/INFO]: [WTHIT] Registering plugin megane:plugin at lol.bai.megane.runtime.Megane
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.ae2.MeganeAppliedEnergistics2 from megane-applied-energistics-2
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.create.MeganeCreate from megane-create
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.dmlsimulacrum.MeganeDmlSimulacrum from megane-deep-mob-learning-simulacrum
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.extragenerators.MeganeExtraGenerators from megane-extra-generators
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer from megane-fabric-transfer
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.indrev.MeganeIndustrialRevolution from megane-industrial-revolution
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.kibe.MeganeKibe from megane-kibe
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.lba.MeganeLibBlockAttributes from megane-lib-block-attributes
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.luggage.MeganeLuggage from megane-luggage
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.moderndynamics.MeganeModernDynamics from megane-modern-dynamics
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.reborncore.MeganeRebornCore from megane-reborn-core
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.rebornenergy.MeganeRebornEnergy from megane-reborn-energy
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.techreborn.MeganeTechReborn from megane-tech-reborn
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.vanilla.MeganeVanilla from megane-vanilla
+[17:58:03] [Render thread/INFO]: [megane] Loading lol.bai.megane.module.wirelessnetworks.MeganeWirelessNetworks from megane-wireless-networks
+[17:58:03] [Render thread/INFO]: [megane] Loading aztech.modern_industrialization.compat.megane.MIMeganeModule from modern_industrialization
+[17:58:03] [Render thread/INFO]: [WTHIT] Registering plugin secretrooms:secretrooms at com.github.spaceman.WailaPlugin
+[17:58:03] [Render thread/INFO]: [WTHIT] Registering plugin ae2:waila at appeng.integration.modules.waila.WailaModule
+[17:58:03] [Render thread/INFO]: [WTHIT] Registering plugin cookingforblockheads:wthit at net.blay09.mods.cookingforblockheads.compat.WTHITCookingForBlockheadsPlugin
+[17:58:03] [Render thread/INFO]: [WTHIT] Using mcp.mobius.waila.plugin.core.pick.ObjectPicker as the object picker
+[17:58:03] [Render thread/INFO]: [WTHIT] Plugin config reloaded
+[17:58:04] [Render thread/INFO]: Integration for AE2 Things has been loaded
+[17:58:04] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[17:58:04] [Render thread/INFO]: Trying to read servers file...
+[17:58:04] [Render thread/INFO]: A servers file was found, loading it..
+[17:58:04] [Render thread/INFO]: Successfully loaded servers file.
+[17:58:04] [Render thread/INFO]: BYG: "Client Setup" Event Complete!
+[17:58:05] [Render thread/INFO]: Setting up client reloading resource manager.
+[17:58:05] [Render thread/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on magna.mixins.json:WorldRendererMixin from mod magna::localvar$gnk000$appendBlockBreakingProgressions exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moving already registered items
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moved 5 items to eggtab.arrow_group
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moved 4 items to eggtab.potion_group
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moved 327 items to eggtab.egg_group
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moved 37 items to eggtab.music_group
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moved 197 items to eggtab.creative_group
+[17:58:05] [Render thread/INFO]: [Egg Tab] Now listening for new items
+[17:58:05] [Render thread/INFO]: [Egg Tab] Moving enchanted books
+[17:58:05] [Render thread/INFO]: Loaded config file.
+[17:58:05] [Render thread/INFO]: Saved config file.
+[17:58:05] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[17:58:05] [Render thread/INFO]: Iris detected.
+[17:58:05] [Render thread/INFO]: Beginning More Geodes client initialization
+[17:58:05] [Render thread/INFO]: More Geodes client initialized!
+[17:58:06] [Render thread/INFO]: Successfully loaded 'C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\healthoverlay.json5'.
+[17:58:06] [Render thread/INFO]: [STDOUT]: Inventory HUD + has been initialized!
+[17:58:06] [Render thread/INFO]: JamLib has been initialized on the client
+[17:58:06] [Render thread/INFO]: [STDOUT]: JumpOverFences initialized!
+[17:58:06] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[17:58:06] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[17:58:06] [Render thread/INFO]: Trying to load optifine compat!
+[17:58:06] [Render thread/INFO]: Optifine not found, not loading compatibility!
+[17:58:06] [Render thread/INFO]: Modern Industrialization client setup done!
+[17:58:06] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[17:58:06] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[17:58:06] [Render thread/INFO]: Myron Initialized!
+[17:58:06] [Render thread/INFO]: [Programmer Art Injector] Initialized.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider CompactMachinesReiPlugin [compactmachines] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider AdornReiClient [adorn] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Adorn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/WARN]: The entrypoint used by AppleSkin, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/WARN]: The entrypoint used by Decorative Blocks, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider DBClientPlugin [decorative_blocks] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Ellemes' Container Library, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ReiCompat [ellemes_container_lib] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by EnchantmentDescriptions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider EnchDescREI [enchdesc] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by FTB Quests, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider FTBQuestsREIIntegration [ftbquests] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/WARN]: The entrypoint used by Improved Stations, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ImprovedStationsREIPlugin [improved-stations] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Industrial Revolution, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REIPlugin [indrev] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Roughly Enough Professions, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Roughly Enough Resources, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider PluginEntry [roughlyenoughresources] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Tech Reborn, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [techreborn] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by The Twilight Forest, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REI [twilightforest] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by WMITAF, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider WmitafReiPluginImpl [wmitaf] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by wthit, "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ReiRecipeLookup [wthit] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider AdAstraClientPlugin [ad_astra] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider APPlugin [architects_palette] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REIPlugin [chiselsandbits] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider create:rei_plugin [create] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REIClientIntegration [spectrum] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider SpiritPlugin [spirit] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Applied Energistics 2, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider AE2 [ae2] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by AE2Things, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REI [ae2things] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by AE2WTLib, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ae2wtlib [ae2wtlib] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Artifacts, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REIPlugin [artifacts] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Bewitchment, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider BWREIPlugin [bewitchment] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Catwalks Inc., "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider CatwalksIncREI [catwalksinc] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Chipped, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REIChippedPlugin [chipped] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Chisel Refabricated, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ChiselREI [chisel] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ConjuringClientPlugin [conjuring] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Conjuring, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/WARN]: The entrypoint used by Coxinha Utilities, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [coxinhautilities] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Crafting Tweaks, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider RoughlyEnoughItemsIntegration [craftingtweaks] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by DML: Refabricated - REI Integration, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ReiPlugin [dml-refabricated-rei] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Farmer's Delight, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider FarmersDelightModREI [farmersdelight] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by FTB Library, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider REIIntegration [ftblibrary] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by KubeJS, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider KubeJSREIPlugin [kubejs] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider MIREIPlugin [modern_industrialization] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider FluidFuelsPlugin [modern_industrialization] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ForgeHammerRecipePlugin [modern_industrialization] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider MachinesPlugin [modern_industrialization] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Modern Industrialization, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider NeutronInteractionPlugin [modern_industrialization] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Modern Dynamics, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider MdReiPlugin [moderndynamics] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by o?o, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by TrashSlot, "rei_plugins" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider RoughlyEnoughItemsIntegration [trashslot] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Botania, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider BotaniaREIPlugin [botania] for REIClientPlugin
+[17:58:06] [Render thread/WARN]: The entrypoint used by Extra Generators, "rei_plugins_v0" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[17:58:06] [Render thread/INFO]: [REI] Registered plugin provider ReiCompat [extragenerators] for REIClientPlugin
+[17:58:06] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:ci_msg
+[17:58:06] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
+[17:58:06] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughresources:swds_start
+[17:58:06] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughresources:swds_chunk
+[17:58:06] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughresources:swds_done
+[17:58:06] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughresources:sli
+[17:58:06] [ForkJoinPool.commonPool-worker-1/INFO]: Start Loading of CTS.
+[17:58:06] [Render thread/INFO]: SlimyFloor is a server side only mod (... for now ...)
+[17:58:07] [Render thread/INFO]: [Spectrum] Starting Client Startup
+[17:58:07] [Render thread/INFO]: [Spectrum] Setting up Block Rendering...
+[17:58:07] [Render thread/INFO]: [Spectrum] Setting up Fluid Rendering...
+[17:58:07] [Render thread/INFO]: [Spectrum] Setting up GUIs...
+[17:58:07] [Render thread/INFO]: [Spectrum] Setting up ItemPredicates...
+[17:58:07] [Render thread/INFO]: [Spectrum] Setting up Block Entity Renderers...
+[17:58:07] [Render thread/INFO]: [Spectrum] Setting up Entity Renderers...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Server to Client Package Receivers...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Particle Factories...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Overlays...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Item Tooltips...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering custom Patchouli Pages & Flags...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Event Listeners...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Model Layers...
+[17:58:07] [Render thread/INFO]: [Spectrum] Registering Armor Renderers...
+[17:58:07] [Render thread/INFO]: [Spectrum] Client startup completed!
+[17:58:07] [Render thread/INFO]: Loaded config file.
+[17:58:07] [Render thread/INFO]: Saved config file.
+[17:58:07] [Render thread/INFO]: Saving config to C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\toolstats.json.
+[17:58:08] [Render thread/INFO]: Loading [Harvest Scythes]
+[17:58:08] [Render thread/INFO]: [Tech Reborn] detected. Loading supported items.
+[17:58:08] [Render thread/INFO]: [DragonLoot] detected. Loading supported items.
+[17:58:08] [Render thread/INFO]: [Harvest Scythes] has successfully been loaded!
+[17:58:08] [ForkJoinPool.commonPool-worker-2/WARN]: [Iris Update Check] Cached update file detected, using that!
+[17:58:08] [Render thread/INFO]: Loaded default options for extra-folder
+[17:58:08] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[17:58:08] [ForkJoinPool.commonPool-worker-1/INFO]: Hello From 'Slight' Gui Modifications cts script
+[17:58:08] [Render thread/INFO]: Loaded client.properties
+[17:58:09] [Render thread/INFO]: Debug functionality is disabled.
+[17:58:09] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[17:58:09] [Render thread/INFO]: Shaders are disabled
+[17:58:09] [Render thread/INFO]: ARRP register - before vanilla
+[17:58:09] [Render thread/INFO]: ARRP register - after vanilla
+[17:58:09] [Render thread/WARN]: FileSystem for org_codehaus_groovy_groovy 3.0.8 has been closed unexpectedly, existing root path references may break!
+[17:58:09] [Render thread/INFO]: Preparing Resource Pack injection.
+[17:58:09] [Render thread/INFO]: Successfully injected 0/0 packs from C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\openloader\resources.
+[17:58:09] [Render thread/INFO]: Hardware information:
+[17:58:09] [Render thread/INFO]: CPU: 12x AMD Ryzen 5 5600X 6-Core Processor 
+[17:58:09] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 516.94)
+[17:58:09] [Render thread/INFO]: OS: Windows 10 (10.0)
+[17:58:10] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\growing-patterns.json5" was read.
+[17:58:11] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[17:58:11] [Render thread/INFO]: Reloading ResourceManager: Default, Compressor, Fabric Mods (Ad Astra!, Additional Additions, Additionalentityattributes, Adorn, Runtime Resource Pack, Advanced Netherite, Advancement Plaques, Advancements Debug, AdventureZ, Applied Energistics 2, AEAdditions, AE2Things, AE2WTLib, Animal Feeding Trough, AOF Emotes, Applied Botanics, AppleSkin, Caracal mob, Grizzly Bear mob, Arcanus, Architect's Palette Fabric, Artifacts, AttributeFix, Auth Me, Auto Workstations, Auto Config v1 Updated, Automobility, Axolotl Item Fix, Banner++, BetterCompatibilityChecker, Beacon Overhaul, BedBenefits, Besmirchment, Better Bad Omen, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better Mineshafts, Better Ping Display, YUNG's Better Strongholds, YUNG's Better Witch Huts, Bewitchment, BHMenu-Fabric, Biome Makeover, BLAST, Blockus, Bookshelf, Borderless Mining, Bosses of Mass Destruction (Beta), Botania, Break Progress, st'ructure tools, Builtin Servers, Oh The Biomes You'll Go, Croptopia's Chocolaterie, Campanion, cAn i MiNe thIS bLOCk?, Capybara, Cardinal Components API, Cardinal Components API (base), Cardinal Components API (blocks), Cardinal Components API (chunks), Cardinal Components API (entities), Cardinal Components API (items), Cardinal Components API (world saves), Cardinal Components API (scoreboard), Cardinal Components API (worlds), Carrier, Catwalks Inc., Chalk, Chassis, Cherished Worlds, Chipped, Chisel Refabricated, Chisels & Bits, CleanCut, Client Tweaks, Cloth Config v6, cloth-config-lite, Clumps, Compact Machines 4, Companion, Compressor, CC: Restitched, Conjuring, Continuity, Controlling For Fabric, Cooking for Blockheads, Coxinha Utilities, Crafting Tweaks, Crawl, Create, CreatePlus, Creeper Overhaul, Croptopia, Croptosis, Can You Trash It?, Dank Storage, Dark Enchanting, DarkPaintings, DarkUtilities, Dawn API, DeathKnell, DeathLog, Decorative Blocks, Deepslate Cutting, Default Options, Disable Custom Worlds Advice, Display Case Mod, Deep Mob Learning: Refabricated, DML: Refabricated - Base, DML: Refabricated - Vanilla Events, DML: Refabricated - Glitch Armor, DML: Refabricated - REI Integration, Deep Mob Learning: Simulacrum, Doodads, DragonLoot, Dripstone Fluid Lib, Duckling, Dustrial Decor, Dwarf Coal, Dyed, Dynamic FPS, Ecologics, Egg Tab, Ellemes' Container Library, Elytra Trinket, Enchancement, EnchantmentDescriptions, Entity Banners, Expanded Storage, Experience Bug Fix, Extra Alchemy, Extra Generators, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Command API (v1), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Language Kotlin, Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, Fake Player API, Farmer's Delight, Farming for Blockheads, Feature NBT Deadlock Be Gone - Fabric, FindMe, Floral Flair, FlytreLib, Flywheel, Forge Config API Port, FTB Chunks, FTB Library, FTB Quests, FTB Teams, FTB Ultimine, Gate Of Babylon, GBfabrictools, Geckolib, More Geodes, Glassential, Go Fish, Goblin Traders, Golden Hoppers, Goodall, goosik-config, The Graveyard, The Graveyard Biomes, Guard Villagers Fabric, Guild, Hardcore Revival, Harvest Scythes, Health Overlay, Here be no Dragons!, Horse Info, Icy Incitement, Impaled, Impersonate, Improved Stations, Incantationem, Incubus Core, Indium, Industrial Revolution, Infusion Table, Inmis, Inventory HUD +, Inventory Sorter, Iris, Iron Jetpacks, Item Filters, JamLib, Jankson, JsonEM, Kanos Config, Kibe, KubeJS Extras, KleeSlabs, KtDataTagLib, KubeJS, Kyrpt Config, LambDynamicLights, LazyDFU, Legendary Tooltips, LibBlockAttributes (Core), LibBlockAttributes (Fluids), LibBlockAttributes (Items), LibGui, Lifts, Light Overlay, Lithium, Log Begone, Logprot Mod, Lootr, Lovely Snails, Luggage, Maelstrom Library, Magical Forest, Magna, Macaw's Bridges, Macaw's Doors, Macaw's Fences and Walls, Macaw's Lights and Lamps, Macaw's Paintings, Macaw's Paths and Pavings, Macaw's Roofs, Macaw's Trapdoors, Macaw's Windows, megane, megane-api, megane-applied-energistics-2, megane-create, megane-deep-mob-learning-simulacrum, megane-extra-generators, megane-fabric-transfer, megane-industrial-revolution, megane-kibe, megane-lib-block-attributes, megane-luggage, megane-modern-dynamics, megane-reborn-core, megane-reborn-energy, megane-runtime, megane-tech-reborn, megane-vanilla, megane-wireless-networks, Megaparrot, MidnightLib, Milk Lib, Cammie's Minecart Tweaks, Manningham Mills, Mob Scarecrow, Mo' Colors, Modern Industrialization, Modern Dynamics, Mod Menu, More Villagers, Mo' Structures, Magitek Mechs, Mythic Mounts, Naturalist, Nature's Compass, Nears, NetherPortalFix, No Null Processors - Fabric, No Indium?, OmegaConfig, Omega Config GUI, On A Stick, OpenLoader, Overloaded Armor Bar, o?o, Paginated Advancements, Patchouli, Pehkui, Peripheralium, Unlimited Peripheral Works, Phosphor, PictureSign, Piercing Paxels, PigPen, Pal, Pling, Plushie Mod, PolyLib, Porting Lib, Pride Lib, Probably Chests, Promenade, Pyrotastic, Quests Additions, Quick Shulker, Rare Ice, Rat's Mischief, Reach Entity Attributes, Reborn Core, Redstone Bits, Registrate for Fabric, Replanter, Repurposed Structures, Respawnable Pets, Revelationary, Right Click Harvest, Roughly Enough Items, Roughly Enough Professions, Roughly Enough Resources, Runelic, Satin, Secret Rooms, Serialization Hooks, Shulker Box Tooltip, Simple Teleporters, Simple Void World, 'Slight' GUI Modifications, Slimy Floor, SlotLock, Show Me What You Got, Sodium, spark, Spectrum, Speedometer Mod, Spirit, SpruceUI, Staff of Building, Static Data, Step Height Entity Attribute, Stoneholm, Straw Dummy, Energy, Tech Reborn, TerraBlender, Terraform Shapes API (v1), Terraform Wood API (v1), Terrarian Slimes, Thatched, ThonkUtil, ThonkUtil Base, ThonkUtil Capes (v1), ThonkUtil Coords (v1), ThonkUtil Customization (v1), ThonkUtil Legacy, ThonkUtil ModChecker (v1), ThonkUtil Potions (v0), ThonkUtil TitleScreen (v1), ThonkUtil Trades (v1), Tips, Cosmetica, ToolStats, ToolTip Fix, Wither Totems Mod, Towers of the Wild: Additions, Transportables, Trap Expansion, TrashSlot, Traveler's Backpack, Trinket of Undying, Trinkets, Twigs, The Twilight Forest, Vanilla Hammers, Vanilla Excavators, Villager Hats, Visuality, VoidTotem (Fabric), Waystones, TheWildBackport, Wildlife, Wireless Networks, WMITAF, Wolves With Armor, wthit, Xp Obelisk, You're in Grave Danger, YUNG's Bridges, YUNG's Extras), continuity/default, continuity/glass_pane_culling_fix, KubeJS Resource Pack [assets]
+[17:58:11] [Render thread/INFO]: closing rrp automobility:data
+[17:58:11] [Render thread/INFO]: closing rrp secretrooms:secret_rooms_data
+[17:58:11] [Render thread/INFO]: closing rrp automobility:assets
+[17:58:11] [Render thread/INFO]: closing rrp secretrooms:secret_rooms_assets
+[17:58:11] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures
+[17:58:11] [Render thread/INFO]: ARRP register - before vanilla
+[17:58:11] [Render thread/INFO]: ARRP register - after vanilla
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: This line is printed by the mod mixin!
+[17:58:12] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\settings.json5" was read.
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\surface_rules\end_surface_rules.json5" was read.
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[17:58:12] [Render thread/INFO]: Loaded values for 57 compatible attributes.
+[17:58:12] [Render thread/INFO]: Loaded 57 values from config.
+[17:58:12] [Render thread/INFO]: Saving config file. 57 entries.
+[17:58:12] [Render thread/INFO]: Applying changes for 57 attributes.
+[17:58:12] [Render thread/INFO]: Loaded default options for keymappings
+[17:58:12] [Render thread/INFO]: [Spectrum] Registering Block and Item Color Providers...
+[17:58:12] [Render thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event firing...
+[17:58:12] [Render thread/INFO]: BYG: "Common Setup" Event Complete!
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\end-biomes.json5" was read.
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\nether-biomes.json5" was read.
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\trades.json5" was read.
+[17:58:12] [Render thread/INFO]: "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\biomepedia.json5" was read.
+[17:58:13] [Render thread/INFO]: Created compressed zip back up for "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg" in "C:\Users\kiora\curseforge\minecraft\Instances\All of Fabric 5 - AOF5 - 1.18.2\config\byg\backups\last_working_configs_backup.zip"
+[17:58:13] [Render thread/INFO]: BYG: Compostible Blocks Added!
+[17:58:13] [Render thread/INFO]: BYG: Added tillables!
+[17:58:13] [Render thread/INFO]: BYG: Added Flammables!
+[17:58:13] [Render thread/INFO]: BYG: Added strippable Blocks...
+[17:58:13] [Render thread/INFO]: BYG: "Load Complete" Event Complete!
+[17:58:13] [Render thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event complete!
+[17:58:13] [Render thread/INFO]: [STDOUT]: (MidnightLib) Player hats successfully loaded!
+[17:58:13] [Render thread/INFO]: [STDOUT]: InvGUI Initialized
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/cross_diag.obj' referenced from: create:block/track/cross_diag.obj: java.io.FileNotFoundException: create:models/block/track/cross_diag.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_diag.obj' referenced from: create:models/block/track/cross_diag.obj: java.io.FileNotFoundException: create:models/models/block/track/cross_diag.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/diag_2' referenced from: create:models/block/track/diag_2: java.io.FileNotFoundException: create:models/models/block/track/diag_2.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/item.obj' referenced from: create:block/blaze_burner/item.obj: java.io.FileNotFoundException: create:models/block/blaze_burner/item.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/item.obj' referenced from: create:models/block/blaze_burner/item.obj: java.io.FileNotFoundException: create:models/models/block/blaze_burner/item.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/flywheel/flywheel_shaftless.obj' referenced from: create:block/flywheel/flywheel_shaftless.obj: java.io.FileNotFoundException: create:models/block/flywheel/flywheel_shaftless.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/flywheel/flywheel_shaftless.obj' referenced from: create:models/block/flywheel/flywheel_shaftless.obj: java.io.FileNotFoundException: create:models/models/block/flywheel/flywheel_shaftless.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/bogey/bogey_drive_wheel_pin.obj' referenced from: create:block/track/bogey/bogey_drive_wheel_pin.obj: java.io.FileNotFoundException: create:models/block/track/bogey/bogey_drive_wheel_pin.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive_wheel_pin.obj' referenced from: create:models/block/track/bogey/bogey_drive_wheel_pin.obj: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive_wheel_pin.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/cross_d1_xo.obj' referenced from: create:block/track/cross_d1_xo.obj: java.io.FileNotFoundException: create:models/block/track/cross_d1_xo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d1_xo.obj' referenced from: create:models/block/track/cross_d1_xo.obj: java.io.FileNotFoundException: create:models/models/block/track/cross_d1_xo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_cage' referenced from: create:block/blaze_burner/blaze_cage: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_cage.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_cage' referenced from: create:models/block/blaze_burner/blaze_cage: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_cage.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive_wheel' referenced from: create:models/block/track/bogey/bogey_drive_wheel: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive_wheel.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/cross_d2_xo.obj' referenced from: create:block/track/cross_d2_xo.obj: java.io.FileNotFoundException: create:models/block/track/cross_d2_xo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d2_xo.obj' referenced from: create:models/block/track/cross_d2_xo.obj: java.io.FileNotFoundException: create:models/models/block/track/cross_d2_xo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d2_xo' referenced from: create:models/block/track/cross_d2_xo: java.io.FileNotFoundException: create:models/models/block/track/cross_d2_xo.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d2_zo' referenced from: create:models/block/track/cross_d2_zo: java.io.FileNotFoundException: create:models/models/block/track/cross_d2_zo.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_rods_large' referenced from: create:block/blaze_burner/blaze_rods_large: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_rods_large.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_rods_large' referenced from: create:models/block/blaze_burner/blaze_rods_large: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_rods_large.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_rods_small.obj' referenced from: create:block/blaze_burner/blaze_rods_small.obj: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_rods_small.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_rods_small.obj' referenced from: create:models/block/blaze_burner/blaze_rods_small.obj: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_rods_small.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/bogey/bogey_frame.obj' referenced from: create:block/track/bogey/bogey_frame.obj: java.io.FileNotFoundException: create:models/block/track/bogey/bogey_frame.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_frame.obj' referenced from: create:models/block/track/bogey/bogey_frame.obj: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_frame.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_flame.obj' referenced from: create:block/blaze_burner/blaze_flame.obj: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_flame.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_flame.obj' referenced from: create:models/block/blaze_burner/blaze_flame.obj: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_flame.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_diag' referenced from: create:models/block/track/cross_diag: java.io.FileNotFoundException: create:models/models/block/track/cross_diag.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/flywheel/flywheel' referenced from: create:models/block/flywheel/flywheel: java.io.FileNotFoundException: create:models/models/block/flywheel/flywheel.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/diag_2.obj' referenced from: create:block/track/diag_2.obj: java.io.FileNotFoundException: create:models/block/track/diag_2.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/diag_2.obj' referenced from: create:models/block/track/diag_2.obj: java.io.FileNotFoundException: create:models/models/block/track/diag_2.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/flywheel/flywheel.obj' referenced from: create:block/flywheel/flywheel.obj: java.io.FileNotFoundException: create:models/block/flywheel/flywheel.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/flywheel/flywheel.obj' referenced from: create:models/block/flywheel/flywheel.obj: java.io.FileNotFoundException: create:models/models/block/flywheel/flywheel.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive_piston' referenced from: create:models/block/track/bogey/bogey_drive_piston: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive_piston.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/bogey/bogey_drive.obj' referenced from: create:block/track/bogey/bogey_drive.obj: java.io.FileNotFoundException: create:models/block/track/bogey/bogey_drive.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive.obj' referenced from: create:models/block/track/bogey/bogey_drive.obj: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_flame' referenced from: create:block/blaze_burner/blaze_flame: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_flame.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_flame' referenced from: create:models/block/blaze_burner/blaze_flame: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_flame.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/bogey/bogey_wheel.obj' referenced from: create:block/track/bogey/bogey_wheel.obj: java.io.FileNotFoundException: create:models/block/track/bogey/bogey_wheel.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_wheel.obj' referenced from: create:models/block/track/bogey/bogey_wheel.obj: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_wheel.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_rods_small' referenced from: create:block/blaze_burner/blaze_rods_small: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_rods_small.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_rods_small' referenced from: create:models/block/blaze_burner/blaze_rods_small: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_rods_small.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d1_zo' referenced from: create:models/block/track/cross_d1_zo: java.io.FileNotFoundException: create:models/models/block/track/cross_d1_zo.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_wheel' referenced from: create:models/block/track/bogey/bogey_wheel: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_wheel.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d1_xo' referenced from: create:models/block/track/cross_d1_xo: java.io.FileNotFoundException: create:models/models/block/track/cross_d1_xo.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/flywheel/flywheel_shaftless' referenced from: create:block/flywheel/flywheel_shaftless: java.io.FileNotFoundException: create:models/block/flywheel/flywheel_shaftless.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/flywheel/flywheel_shaftless' referenced from: create:models/block/flywheel/flywheel_shaftless: java.io.FileNotFoundException: create:models/models/block/flywheel/flywheel_shaftless.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_cage.obj' referenced from: create:block/blaze_burner/blaze_cage.obj: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_cage.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_cage.obj' referenced from: create:models/block/blaze_burner/blaze_cage.obj: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_cage.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/bogey/bogey_drive_piston.obj' referenced from: create:block/track/bogey/bogey_drive_piston.obj: java.io.FileNotFoundException: create:models/block/track/bogey/bogey_drive_piston.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive_piston.obj' referenced from: create:models/block/track/bogey/bogey_drive_piston.obj: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive_piston.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/ascending' referenced from: create:models/block/track/ascending: java.io.FileNotFoundException: create:models/models/block/track/ascending.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive' referenced from: create:models/block/track/bogey/bogey_drive: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive_wheel_pin' referenced from: create:models/block/track/bogey/bogey_drive_wheel_pin: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive_wheel_pin.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_frame' referenced from: create:models/block/track/bogey/bogey_frame: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_frame.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/bogey/bogey_drive_wheel.obj' referenced from: create:block/track/bogey/bogey_drive_wheel.obj: java.io.FileNotFoundException: create:models/block/track/bogey/bogey_drive_wheel.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/bogey/bogey_drive_wheel.obj' referenced from: create:models/block/track/bogey/bogey_drive_wheel.obj: java.io.FileNotFoundException: create:models/models/block/track/bogey/bogey_drive_wheel.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/diag.obj' referenced from: create:block/track/diag.obj: java.io.FileNotFoundException: create:models/block/track/diag.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/diag.obj' referenced from: create:models/block/track/diag.obj: java.io.FileNotFoundException: create:models/models/block/track/diag.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/campfire' referenced from: create:block/blaze_burner/campfire: java.io.FileNotFoundException: create:models/block/blaze_burner/campfire.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/campfire' referenced from: create:models/block/blaze_burner/campfire: java.io.FileNotFoundException: create:models/models/block/blaze_burner/campfire.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/cross_d2_zo.obj' referenced from: create:block/track/cross_d2_zo.obj: java.io.FileNotFoundException: create:models/block/track/cross_d2_zo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d2_zo.obj' referenced from: create:models/block/track/cross_d2_zo.obj: java.io.FileNotFoundException: create:models/models/block/track/cross_d2_zo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/cross_d1_zo.obj' referenced from: create:block/track/cross_d1_zo.obj: java.io.FileNotFoundException: create:models/block/track/cross_d1_zo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/cross_d1_zo.obj' referenced from: create:models/block/track/cross_d1_zo.obj: java.io.FileNotFoundException: create:models/models/block/track/cross_d1_zo.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/item' referenced from: create:block/blaze_burner/item: java.io.FileNotFoundException: create:models/block/blaze_burner/item.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/item' referenced from: create:models/block/blaze_burner/item: java.io.FileNotFoundException: create:models/models/block/blaze_burner/item.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/blaze_rods_large.obj' referenced from: create:block/blaze_burner/blaze_rods_large.obj: java.io.FileNotFoundException: create:models/block/blaze_burner/blaze_rods_large.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/blaze_rods_large.obj' referenced from: create:models/block/blaze_burner/blaze_rods_large.obj: java.io.FileNotFoundException: create:models/models/block/blaze_burner/blaze_rods_large.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/diag' referenced from: create:models/block/track/diag: java.io.FileNotFoundException: create:models/models/block/track/diag.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/blaze_burner/campfire.obj' referenced from: create:block/blaze_burner/campfire.obj: java.io.FileNotFoundException: create:models/block/blaze_burner/campfire.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/blaze_burner/campfire.obj' referenced from: create:models/block/blaze_burner/campfire.obj: java.io.FileNotFoundException: create:models/models/block/blaze_burner/campfire.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:block/track/ascending.obj' referenced from: create:block/track/ascending.obj: java.io.FileNotFoundException: create:models/block/track/ascending.obj.json
+[17:58:14] [Worker-Main-9/WARN]: Unable to load model: 'create:models/block/track/ascending.obj' referenced from: create:models/block/track/ascending.obj: java.io.FileNotFoundException: create:models/models/block/track/ascending.obj.json
+[17:58:16] [Worker-Main-9/WARN]: Unable to load model: 'ad_astra:launch_pad' referenced from: ad_astra:rocket_launch_pad#lit=true,waterlogged=true: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[17:58:16] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:flag_down' referenced from: ad_astra:flag#facing=north,half=upper,waterlogged=true: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[17:58:16] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:flag_up' referenced from: ad_astra:flag#facing=north,half=upper,waterlogged=true: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[17:58:16] [Worker-Main-9/WARN]: Unable to load model: 'minecraft:water_pump' referenced from: ad_astra:water_pump#facing=north,powered=true: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[17:58:19] [Worker-Main-9/WARN]: Exception loading blockstate definition: byg:blockstates/potted_hydrangea_bush.json: java.io.FileNotFoundException: byg:blockstates/potted_hydrangea_bush.json
+[17:58:19] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'byg:blockstates/potted_hydrangea_bush.json' missing model for variant: 'byg:potted_hydrangea_bush#'
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_4u' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_4u.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_3u' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_3u.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_2u_opposite' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_2u_opposite.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_2u' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_2u.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_1u' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_1u.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_1' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_1.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_2' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_2.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_3' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_3.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_4' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_4.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_u' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_u.json
+[17:58:20] [Worker-Main-9/WARN]: Unable to load model: 'chipped:block/vines/vine_9/vine_9_2_opposite' referenced from: chipped:vine_17#east=true,north=true,south=true,up=true,west=true: java.io.FileNotFoundException: chipped:models/block/vines/vine_9/vine_9_2_opposite.json
+[17:58:20] [Worker-Main-9/WARN]: Exception loading blockstate definition: compactmachines:blockstates/machine_void_air.json: java.io.FileNotFoundException: compactmachines:blockstates/machine_void_air.json
+[17:58:20] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'compactmachines:blockstates/machine_void_air.json' missing model for variant: 'compactmachines:machine_void_air#'
+[17:58:22] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'floral_flair:blockstates/anthurium.json' missing model for variant: 'floral_flair:anthurium#facing=down'
+[17:58:22] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'floral_flair:blockstates/anthurium.json' missing model for variant: 'floral_flair:anthurium#facing=up'
+[17:58:22] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'floral_flair:blockstates/potted_anthurium.json' missing model for variant: 'floral_flair:potted_anthurium#facing=down'
+[17:58:22] [Worker-Main-9/WARN]: Exception loading blockstate definition: 'floral_flair:blockstates/potted_anthurium.json' missing model for variant: 'floral_flair:potted_anthurium#facing=up'

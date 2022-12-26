@@ -1,0 +1,13 @@
+name = "Image2Map"
+filename = "image2map-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "546a013c083216656c1b5aa6b840db159d61c22d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3540160
+project-id = 403656

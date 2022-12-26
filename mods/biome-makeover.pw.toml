@@ -1,0 +1,13 @@
+name = "Biome Makeover"
+filename = "biomemakeover-FABRIC-1.18.2-1.4.32.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05a8ec270cd5091283493788e7fe94169ccae102"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062223
+project-id = 412182

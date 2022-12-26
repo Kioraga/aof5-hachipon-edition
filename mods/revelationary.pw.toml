@@ -1,0 +1,13 @@
+name = "Revelationary"
+filename = "revelationary-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b8ccbe81efc81f905c5d3ea301228eff5a6e11f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4165240
+project-id = 656526
